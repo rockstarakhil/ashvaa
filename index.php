@@ -544,7 +544,7 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
 									<img src="assets/images/clients/lOHITHA white-min.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/lOHITHA origianal-min.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/lOHITHA Origianal-min.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
