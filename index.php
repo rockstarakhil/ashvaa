@@ -527,88 +527,88 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/jsplogo.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/jsplogo.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/KRISP_WHITE-min.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/KRISP_ORIGIAL-min.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/pydah.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/699301b6-83ff-47f8-ad46-a6b871e79293.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/SRIVENS_WHITE-min.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/SRIVENS_ORIGIANL-min.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/krisp interior.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/858e2e28-faae-441c-bd9c-5c490c72b562.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/lOHITHA white-min.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/lOHITHA origianal-min.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/sriven elect.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/4b983c9a-759d-4921-ba60-dbbcaa702ee5.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/SYAMALA_white-min.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/SYAMALA_ORIGINAL-min.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/8f65e211-cd41-46dc-8c1d-ba228ac36eb9.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/9c30d6d6-6af9-4fb1-bed3-e5ea4df4c281.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/vlcc_white-min.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/vlcc_original-min.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/4731da4b-b2fb-4c10-aee7-c89484a5d473.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/69cb9e61-d0b8-4420-b8bd-454c9b9e1dc1.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/Ideal_white-min.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/Ideal_original-min.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/492492b2-b7d9-4648-a164-f530ecd6321a.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/9a6c570f-d03a-4806-9a30-dddc648707d9.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/JSP_WHITE-min.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/JSP_ORIGIAL-min.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/b908b85c-f837-4dba-80cf-d961d6fcad29.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/6e63c653-6997-42c6-b788-28e9fb6d15b7.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/PYDAH_WHITE-min.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/PYDAH_ORIGINAL-min.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/d5f831cf-3fb0-490b-aadc-3591c8b64156.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/2ed0436b-e3ea-48aa-85ca-755de0719c9a.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/thirdI_white-min.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/thirdI_original-min.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/d51e13e6-1320-4227-8bc8-c36aaa82dffd.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/aed14647-8ecf-4fef-8274-737d79a7ede1.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/VSM_white-min.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/VSM_ORIGINAL-min.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/d383cf8d-abee-4290-810d-a965f6c0fa6c.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/7f7b6ede-3a3e-4e17-af25-f881c0121d63.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/VENKY_WHITE-min.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/VENKY_original-min.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
