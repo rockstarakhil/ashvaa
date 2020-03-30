@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
     
-<!-- Mirrored from www.nurseitmukaytegin.com/envato-templates/xen/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 20 Mar 2020 06:35:44 GMT -->
+<!-- Mirrored from www.nurseitmukaytegin.com/envato-templates/xen/video_home.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 20 Mar 2020 06:39:02 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Ashvaa</title>
+        <title>XEN</title>
 
 		<!-- fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700" rel="stylesheet" type="text/css">
@@ -19,7 +19,7 @@
 	<body class="loader">
 		<!-- loading start -->
 		<div class="loading">
-		    <img class="logo-loading" src="assets/images/logo/Ashvaa_.png" alt="logo">
+		    <img class="logo-loading" src="assets/images/logo/logo-loader.png" alt="logo">
 	    </div><!-- loading end -->
 	    
 		<!-- pointer start -->
@@ -30,7 +30,7 @@
 		</div><!-- pointer end -->
 		
 		<!-- to-top-btn start -->
-		<a class="to-top-btn pointer-small" href="#up">	
+		<a class="to-top-btn pointer-small" href="#up">
 			  <span class="to-top-arrow"></span>		    
 		</a><!-- to-top-btn end -->
 	    
@@ -41,8 +41,8 @@
 			    <!-- logo start -->
 				<a href="index-2.php" class="logo pointer-large animsition-link">
 					<div class="logo-img-box">
-				        <img class="logo-white" src="assets/images/logo/Ashvaa_.png" alt="logo">
-				        <img class="logo-black" src="assets/images/logo/Ashvaa_.png" alt="logo">
+				        <img class="logo-white" src="assets/images/logo/logo-white.png" alt="logo">
+				        <img class="logo-black" src="assets/images/logo/logo-black.png" alt="logo">
 			        </div>
 		        </a><!-- logo end -->
 		        
@@ -62,14 +62,14 @@
 			
 			<!-- menu-close -->
 			<div class="menu-close pointer-large"></div>
-
+			
 			<!-- dropdown-close-box start -->
 			<div class="dropdown-close-box">
 				<div class="dropdown-close pointer-large">
 					<span></span>
 				</div>
 			</div><!-- dropdown-close-box end -->
-
+			
 			<!-- nav-menu start -->
 			<ul class="nav-menu dark-bg-1">
 				<!-- nav-box start -->
@@ -82,12 +82,12 @@
 					<ul class="dropdown">
 						<li class="nav-box">
 							<a href="index-2.php" class="animsition-link pointer-large">
-								<span class="nav-btn active" data-text="Slider Home">Slider Home</span>
+								<span class="nav-btn" data-text="Slider Home">Slider Home</span>
 							</a>
 						</li>
 						<li class="nav-box">
 							<a href="video_home.php" class="animsition-link pointer-large">
-								<span class="nav-btn" data-text="Video Bg">Video Bg</span>
+								<span class="nav-btn active" data-text="Video Bg">Video Bg</span>
 							</a>
 						</li>
 						<li class="nav-box">
@@ -199,119 +199,32 @@
 	    
 		<!-- animsition-overlay start -->
 		<main class="animsition-overlay" data-animsition-overlay="true">
-			<!-- home-slider start -->
-			<section class="home-slider" id="up">
-				<!-- swiper-wrapper start -->
-			  	<div class="swiper-wrapper">
-				  	<!-- swiper-slide start -->
-				  	<div class="swiper-slide flex-min-height-box home-slide">
-					  	<!-- slide-bg -->
-				      	<div class="slide-bg overlay-loading2 overlay-dark-bg-1" style="background-image:url(assets/images/backgrounds/Design_1Slid.jpg)"></div>
-				      	<!-- home-slider-content start -->
-					  	<div class="home-slider-content flex-min-height-inner dark-bg-1">
-						  	<!-- flex-container start -->
-					      	<div class="container top-bottom-padding-120 flex-container response-999">
-						      	<!-- column start -->
-						      	<div class="six-columns six-offset">
-							      	<div class="content-left-margin-40">
-								      	<h2 class="large-title-bold">
-							  				<span class="slider-title-fill slider-tr-delay01" data-text="Where imagination">Where imagination </span><br>
-							  				<span class="slider-title-fill slider-tr-delay02" data-text="and">and</span><br>
-							  				<span class="slider-title-fill slider-tr-delay03" data-text="art meet.">art meet.</span>
-						  				</h2>
-						  				<p class="p-style-bold-up text-height-20 d-flex-wrap">
-										  	<span class="slider-title-fill slider-tr-delay04" data-text="We Create Desings">We Create Desings</span>
-										  	<span class="slider-title-fill slider-tr-delay05" data-text="that truly">that truly </span>
-
-										  	<span class="slider-title-fill slider-tr-delay06" data-text="Defines Your Brand">Defines Your Brand</span>
-									  	</p>
-									  	<div class="slider-fade slider-tr-delay07 top-margin-30">
-										  	<div class="border-btn-box border-btn-red pointer-large">
-												<div class="border-btn-inner">
-										      		<a href="services.php" class="border-btn" data-text="Read more">Read more</a>
-										    	</div>
-											</div>
-									  	</div>
-							      	</div>
-						      	</div><!-- column end -->
-					      	</div><!-- flex-container end -->
-				      	</div><!-- home-slider-content end -->
-				    </div><!-- swiper-slide end -->
-				    <!-- swiper-slide start -->
-				    <div class="swiper-slide flex-min-height-box home-slide">
-					    <!-- slide-bg -->
-				      	<div class="slide-bg" style="background-image:url(assets/images/backgrounds/branding_slid2.jpg)"></div>
-				      	<!-- home-slider-content start -->
-					  	<div class="home-slider-content flex-min-height-inner dark-bg-2">
-						  	<!-- flex-container start -->
-					      	<div class="container top-bottom-padding-120 flex-container response-999">
-						      	<!-- column start -->
-						      	<div class="six-columns six-offset">
-							      	<div class="content-left-margin-40">
-								      	<h2 class="slider-overlay2 medium-title red-color">Welcome Ashvaa</h2>
-								      	<h3 class="large-title-bold text-color-4">
-							  				<span class="slider-overlay2 slider-tr-delay01">Better Branding </span><br>
-							  				<span class="slider-overlay2 slider-tr-delay02">For a</span><br>
-							  				<span class="slider-overlay2 slider-tr-delay03">Changing World</span>
-						  				</h3>
-									  	<div class="slider-fade slider-tr-delay04 top-margin-30">
-										  	<div class="border-btn-box pointer-large">
-												<div class="border-btn-inner">
-										      		<a href="services.php" class="border-btn" data-text="Read more">Read more</a>
-										    	</div>
-											</div>
-									  	</div>
-							      	</div>
-						      	</div><!-- column end -->
-					      	</div><!-- flex-container end -->
-				      	</div><!-- home-slider-content end -->
-				    </div><!-- swiper-slide end -->
-				    <!-- swiper-slide start -->
-				    <div class="swiper-slide flex-min-height-box home-slide red-slide">
-					    <!-- slide-bg -->
-				      	<div class="slide-bg" style="background-image:url(assets/images/backgrounds/market_Slid3.jpg)"></div>
-				      	<!-- home-slider-content start -->
-					  	<div class="home-slider-content flex-min-height-inner red-bg">
-						  	<!-- flex-container start -->
-					      	<div class="container top-bottom-padding-120 flex-container response-999">
-						      	<!-- column start -->
-						      	<div class="six-columns">
-							      	<h2 class="large-title-bold">
-						  				<span class="slider-title-fill slider-tr-delay01" data-text="Get the">Get THe </span><br>
-						  				<span class="slider-title-fill slider-tr-delay02" data-text="World Talking">World Talking </span><br>
-						  				<!--<span class="slider-title-fill slider-tr-delay03" data-text="Talking">Talking</span>-->
-					  				</h2>
-								  	<div class="small-title-oswald text-height-20 d-flex-wrap top-margin-20">
-									  	<span class="slider-title-fill slider-tr-delay04 top-margin-10" data-text="THINK">THINK</span>
-									  	<span class="slider-title-fill slider-tr-delay05 top-margin-10" data-text="DO">DO</span>
-									  	<span class="slider-title-fill slider-tr-delay06 top-margin-10" data-text="PROPAGATE">PROPAGATE</span>
-								  	</div>
-								  	<div class="arrow-btn-box slider-fade slider-tr-delay06 top-margin-30">
-										<a href="services.php" class="arrow-btn pointer-large">Read more</a>
-									</div>
-						      	</div><!-- column end -->
-					      	</div><!-- flex-container end -->
-				      	</div><!-- home-slider-content end -->
-				    </div><!-- swiper-slide end -->
-			  	</div><!-- swiper-wrapper end -->
-			  	
-			  	<!-- swiper-button-next start -->
-			  	<div class="swiper-button-next">
-				  	<div class="slider-arrow-next-box">
-					  	<span class="slider-arrow-next"></span>
-				  	</div>
-			  	</div><!-- swiper-button-next end -->
-			  	<!-- swiper-button-prev start -->
-			  	<div class="swiper-button-prev">
-				  	<div class="slider-arrow-prev-box">
-					  	<span class="slider-arrow-prev"></span>
-				  	</div>
-			  	</div><!-- swiper-button-prev end -->
-			  	
-			  	<!-- swiper-pagination -->
-			  	<div class="swiper-pagination"></div>
-			  	
-			  	<!-- scroll-btn start -->
+			<!-- page-head start -->
+			<section id="up" class="page-head video-bg-box flex-min-height-box">
+				<!-- video-bg -->
+				<video src="http://www.nurseitmukaytegin.com/envato-templates/videos/video.mp4" muted loop autoplay></video>
+				<!-- bg-overlay -->
+				<div class="bg-overlay"></div>
+				
+				<!-- flex-min-height-inner start -->
+	  			<div class="flex-min-height-inner">
+		  			<!-- container start -->
+		  			<div class="container top-bottom-padding-120">
+		  				<h2 class="overlay-loading2 medium-title red-color">Welcome Xen</h2>
+				  		<h3 class="large-title-bold text-color-4">
+							<span class="overlay-loading2 overlay-light-bg-1 tr-delay01">Best Solutions</span><br>
+							<span class="overlay-loading2 overlay-light-bg-1 tr-delay02">& ideas for</span><br>
+							<span class="overlay-loading2 overlay-light-bg-1 tr-delay03">You Business</span>
+						</h3>
+						<p class="d-flex-wrap top-margin-20 text-color-4">
+							<span class="small-title-oswald text-height-20 fade-loading tr-delay04 top-margin-10">Creative team</span>
+							<span class="small-title-oswald text-height-20 fade-loading tr-delay05 top-margin-10">Innovation ideas</span>
+							<span class="small-title-oswald text-height-20 fade-loading tr-delay06 top-margin-10">Best services</span>
+						</p>
+		  			</div><!-- container end -->
+	  			</div><!-- flex-min-height-inner end -->
+	  			
+	  			<!-- scroll-btn start -->
 				<a href="#down" class="scroll-btn pointer-large">
 					<div class="scroll-arrow-box">
 						<span class="scroll-arrow"></span>
@@ -320,7 +233,7 @@
 						<span class="scroll-btn-flip" data-text="Scroll">Scroll</span>
 					</div>
 				 </a><!-- scroll-btn end -->
-			</section><!-- home-slider end -->
+			</section><!-- page-head end -->
 			
 			<!-- flex-min-height-box start -->
 			<section id="down" class="dark-bg-1 flex-min-height-box">
@@ -333,21 +246,20 @@
 							<!-- column start -->
 							<div class="twelve-columns text-center">
 								<h2 class="large-title text-height-12">
-									<span data-animation-child class="title-fill" data-animation="title-fill-anim" data-text="LET’S CREATE">LET’S CREATE</span><br>
-									<span data-animation-child class="title-fill tr-delay01" data-animation="title-fill-anim" data-text="MORE MAGIC">MORE MAGIC</span>
+									<span data-animation-child class="title-fill" data-animation="title-fill-anim" data-text="We are Creative">We are Creative</span><br>
+									<span data-animation-child class="title-fill tr-delay01" data-animation="title-fill-anim" data-text="We are Xen">We are Xen</span>
 								</h2>
 							</div><!-- column end -->
 							<!-- column start -->
 							<div class="six-columns">
 								<div class="content-right-margin-20">
-									<p data-animation-child class="p-style-medium text-color-5 fade-anim-box tr-delay02" data-animation="fade-anim">The word brand solutions are getting different dimensions as per changing times. We see it by staying curious at heart and collaborating with brands.</p>
+									<p data-animation-child class="p-style-medium text-color-5 fade-anim-box tr-delay02" data-animation="fade-anim">Affogato thundercats quinoa, portland cold-pressed edison bulb artisan paleo banjo tousled try-hard food truck pop-up bushwick godard. Occupy 90's try-hard tote bag chicharrones stumptown polaroid hashtag cliche +1, tousled fanny pack. Tote bag iPhone crucifix hella helvetica food truck bicycle rights cloud bread. Yr iPhone asymmetrical, next level vexillologist godard blog green juice chia. Tacos jean shorts pickled PBR&B poutine.</p>
 								</div>
 							</div><!-- column end -->
 							<!-- column start -->
 							<div class="six-columns">
 								<div class="content-left-margin-20">
-									<p data-animation-child class="p-style-medium text-color-5 fade-anim-box tr-delay03" data-animation="fade-anim">We think of brand solutions from core of the brand and make it work with meaningful consumers connections
-So, when we get our thinking hat, we don’t just pull out a rabbit, we make it dance for u. </p>
+									<p data-animation-child class="p-style-medium text-color-5 fade-anim-box tr-delay03" data-animation="fade-anim">Godard slow-carb chartreuse occupy, tumblr letterpress pok pok tattooed yr lyft yuccie kinfolk. IPhone kombucha shaman gastropub snackwave 90's lo-fi pug chillwave pok pok tofu. Swag deep v listicle roof party seitan man braid raclette church-key trust fund locavore vexillologist green juice raw denim tilde meh. Austin thundercats locavore taiyaki snackwave hoodie put a bird on it tattooed selvage kitsch ramps. </p>
 								</div>
 							</div><!-- column end -->
 							<!-- column start -->
@@ -528,88 +440,88 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/KRISP_WHITE-min.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/KRISP_ORIGIAL-min.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/3eabc7ab-8bae-44f0-8389-0169389e38c2.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/1c4bfb0e-0b9f-4c19-ba5c-113fb0714514.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/SRIVENS_WHITE-min.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/SRIVENS_ORIGIANL-min.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/6b9fcb90-c595-432a-a97c-fcd318b74c04.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/699301b6-83ff-47f8-ad46-a6b871e79293.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/lOHITHA white-min.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/lOHITHA Origianal-min.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/7d1fe64f-fbd7-4e5f-896d-6d79c91f29bf.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/858e2e28-faae-441c-bd9c-5c490c72b562.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/SYAMALA_white-min.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/SYAMALA_ORIGINAL-min.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/8b587214-bdcb-4d74-bb61-2480d1d15aa7.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/4b983c9a-759d-4921-ba60-dbbcaa702ee5.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/vlcc_white-min.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/vlcc_original-min.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/8f65e211-cd41-46dc-8c1d-ba228ac36eb9.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/9c30d6d6-6af9-4fb1-bed3-e5ea4df4c281.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/Ideal_white-min.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/Ideal_original-min.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/4731da4b-b2fb-4c10-aee7-c89484a5d473.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/69cb9e61-d0b8-4420-b8bd-454c9b9e1dc1.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/JSP_WHITE-min.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/JSP_ORIGIAL-min.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/492492b2-b7d9-4648-a164-f530ecd6321a.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/9a6c570f-d03a-4806-9a30-dddc648707d9.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/PYDAH_WHITE-min.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/PYDAH_ORIGINAL-min.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/b908b85c-f837-4dba-80cf-d961d6fcad29.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/6e63c653-6997-42c6-b788-28e9fb6d15b7.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/thirdI_white-min.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/thirdI_original-min.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/d5f831cf-3fb0-490b-aadc-3591c8b64156.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/2ed0436b-e3ea-48aa-85ca-755de0719c9a.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/VSM_white-min.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/VSM_ORIGINAL-min.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/d51e13e6-1320-4227-8bc8-c36aaa82dffd.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/aed14647-8ecf-4fef-8274-737d79a7ede1.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
 						<li>
 							<a href="#" class="pointer-large d-block">
 								<div class="brand-box">
-									<img src="assets/images/clients/VENKY_WHITE-min.png" alt="Brand" class="hover-opac-img">
-									<img src="assets/images/clients/VENKY_original-min.png" alt="Brand" class="opac-img">
+									<img src="assets/images/clients/d383cf8d-abee-4290-810d-a965f6c0fa6c.png" alt="Brand" class="hover-opac-img">
+									<img src="assets/images/clients/7f7b6ede-3a3e-4e17-af25-f881c0121d63.png" alt="Brand" class="opac-img">
 								</div>
 							</a>
 						</li>
@@ -822,7 +734,7 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
 				<div class="three-columns bottom-padding-60">
 					<div class="content-left-right-margin-10">
 						<ul class="footer-menu text-color-4">
-							<li><a class="pointer-large animsition-link small-title-oswald hover-color active" href="index-2.php">Home</a></li>
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="index-2.php">Home</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="about.php">About</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="services.php">Services</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="portfolio.php">Portfolio</a></li>
@@ -885,5 +797,5 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
         <script src="assets/js/main.js"></script>
 	</body>
 
-<!-- Mirrored from www.nurseitmukaytegin.com/envato-templates/xen/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 20 Mar 2020 06:37:39 GMT -->
+<!-- Mirrored from www.nurseitmukaytegin.com/envato-templates/xen/video_home.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 20 Mar 2020 06:39:02 GMT -->
 </html>

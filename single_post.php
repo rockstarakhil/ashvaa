@@ -86,7 +86,7 @@
 							</a>
 						</li>
 						<li class="nav-box">
-							<a href="video_home.html" class="animsition-link pointer-large">
+							<a href="video_home.php" class="animsition-link pointer-large">
 								<span class="nav-btn" data-text="Video Bg">Video Bg</span>
 							</a>
 						</li>
