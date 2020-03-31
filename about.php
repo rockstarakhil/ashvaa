@@ -303,8 +303,57 @@
 					</div><!-- container end -->
 				</div><!-- flex-min-height-inner end -->
 			</section><!-- flex-min-height-box end -->
-			
 			<!-- section start -->
+			<section class="light-bg-1 top-bottom-padding-120" data-midnight="black">
+				<!-- container start -->
+				<div data-animation-container class="container small bottom-padding-60">
+					<div class="text-center">
+						<h2 data-animation-child class="large-title text-color-1 overlay-anim-box2" data-animation="overlay-anim2">Our Process</h2>
+					</div>
+					<div class="top-margin-30">
+						<h3 data-animation-child class="small-title-oswald text-color-2 text-height-20 fade-anim-box tr-delay01" data-animation="fade-anim">ENGAGE – Brief in hand, we immerse ourselves completely, analysing the brand and the competition to define the identity benchmark. Deign thinking tools, from persona thinking tool, from persona building to free associate and plotting customer journeys, are employed in intense brainstorming. To output a strategic brand positioning statement, including the target audience persona, benefits and values, to arrive at identity brief </h3>
+						<p data-animation-child class="p-style-xsmall text-color-1 fade-anim-box tr-delay02" data-animation="fade-anim">IDEATE – spring boarding from the strategic engage stage to the more freewheeling ideate, free listing and discussions in small groups explore alternate routes true to the positioning. This is like a scrum, and ideation without limits or boundaries is encouraged. All groups present visual ideas and the best ones re shortlisted to execution </p>
+						<p data-animation-child class="p-style-xsmall text-color-1 fade-anim-box tr-delay03" data-animation="fade-anim">EXECUTE – all shortlisted options are developed into a complete visual identity kit, which comprises all brand assets (brand mark, font families, colour palates, signature graphics, etc.)</p>
+						<p data-animation-child class="p-style-xsmall text-color-1 fade-anim-box tr-delay04" data-animation="fade-anim">these are then validated for adaptation across media, physical and digital. At this stage, ideas may be rejected before final options are represented to clients</p>
+					</div>
+				</div><!-- container end -->
+				
+				<!-- about-slider start -->
+				<div class="about-slider bottom-padding-60">
+					<!-- swiper-wrapper start -->
+					<div class="swiper-wrapper">
+						<div class="swiper-slide">
+							<img src="assets/images/about/adult-brainstorming-business-1437908.jpg" alt="about">
+						</div>
+						<div class="swiper-slide">
+							<img src="assets/images/about/apple-computer-desk-159807.jpg" alt="about">
+						</div>
+						<div class="swiper-slide">
+							<img src="assets/images/about/apple-brainstorming-business-908288.jpg" alt="about">
+						</div>
+						<div class="swiper-slide">
+							<img src="assets/images/about/adult-bear-beautiful-792535.jpg" alt="about">
+						</div>
+						<div class="swiper-slide">
+							<img src="assets/images/about/hands-indoors-man-1204001.jpg" alt="about">
+						</div>
+					</div><!-- swiper-wrapper end -->
+					
+					<!-- swiper-button-next start -->
+					<div class="swiper-button-next">
+					  	<div class="slider-arrow-next-box">
+						  	<span class="slider-arrow-next"></span>
+					  	</div>
+				  	</div><!-- swiper-button-next end -->
+				  	<!-- swiper-button-prev start -->
+				  	<div class="swiper-button-prev">
+					  	<div class="slider-arrow-prev-box">
+						  	<span class="slider-arrow-prev"></span>
+					  	</div>
+				  	</div><!-- swiper-button-prev end -->
+				</div><!-- about-slider end -->
+			</section><!-- section end -->
+				<!-- section start -->
 			<section class="dark-bg-2">
 				<!-- flex-container start -->
 				<div class="flex-container container bottom-padding-60 top-padding-120">
@@ -382,56 +431,6 @@
 				</div><!-- flex-container end -->
 			</section><!-- section end -->
 			
-			<!-- section start -->
-			<section class="light-bg-1 top-bottom-padding-120" data-midnight="black">
-				<!-- container start -->
-				<div data-animation-container class="container small bottom-padding-60">
-					<div class="text-center">
-						<h2 data-animation-child class="large-title text-color-1 overlay-anim-box2" data-animation="overlay-anim2">Our Process</h2>
-					</div>
-					<div class="top-margin-30">
-						<h3 data-animation-child class="small-title-oswald text-color-2 text-height-20 fade-anim-box tr-delay01" data-animation="fade-anim">ENGAGE – Brief in hand, we immerse ourselves completely, analysing the brand and the competition to define the identity benchmark. Deign thinking tools, from persona thinking tool, from persona building to free associate and plotting customer journeys, are employed in intense brainstorming. To output a strategic brand positioning statement, including the target audience persona, benefits and values, to arrive at identity brief </h3>
-						<p data-animation-child class="p-style-xsmall text-color-1 fade-anim-box tr-delay02" data-animation="fade-anim">IDEATE – spring boarding from the strategic engage stage to the more freewheeling ideate, free listing and discussions in small groups explore alternate routes true to the positioning. This is like a scrum, and ideation without limits or boundaries is encouraged. All groups present visual ideas and the best ones re shortlisted to execution </p>
-						<p data-animation-child class="p-style-xsmall text-color-1 fade-anim-box tr-delay03" data-animation="fade-anim">EXECUTE – all shortlisted options are developed into a complete visual identity kit, which comprises all brand assets (brand mark, font families, colour palates, signature graphics, etc.)</p>
-						<p data-animation-child class="p-style-xsmall text-color-1 fade-anim-box tr-delay04" data-animation="fade-anim">these are then validated for adaptation across media, physical and digital. At this stage, ideas may be rejected before final options are represented to clients</p>
-					</div>
-				</div><!-- container end -->
-				
-				<!-- about-slider start -->
-				<div class="about-slider bottom-padding-60">
-					<!-- swiper-wrapper start -->
-					<div class="swiper-wrapper">
-						<div class="swiper-slide">
-							<img src="assets/images/about/adult-brainstorming-business-1437908.jpg" alt="about">
-						</div>
-						<div class="swiper-slide">
-							<img src="assets/images/about/apple-computer-desk-159807.jpg" alt="about">
-						</div>
-						<div class="swiper-slide">
-							<img src="assets/images/about/apple-brainstorming-business-908288.jpg" alt="about">
-						</div>
-						<div class="swiper-slide">
-							<img src="assets/images/about/adult-bear-beautiful-792535.jpg" alt="about">
-						</div>
-						<div class="swiper-slide">
-							<img src="assets/images/about/hands-indoors-man-1204001.jpg" alt="about">
-						</div>
-					</div><!-- swiper-wrapper end -->
-					
-					<!-- swiper-button-next start -->
-					<div class="swiper-button-next">
-					  	<div class="slider-arrow-next-box">
-						  	<span class="slider-arrow-next"></span>
-					  	</div>
-				  	</div><!-- swiper-button-next end -->
-				  	<!-- swiper-button-prev start -->
-				  	<div class="swiper-button-prev">
-					  	<div class="slider-arrow-prev-box">
-						  	<span class="slider-arrow-prev"></span>
-					  	</div>
-				  	</div><!-- swiper-button-prev end -->
-				</div><!-- about-slider end -->
-			</section><!-- section end -->
 			
 			<!-- price-table start -->
 			<section class="price-table top-padding-120 bottom-padding-30 dark-bg-1">
