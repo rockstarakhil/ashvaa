@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Ashvaa</title>
-        <link rel ="icon" type="image/png" href="Ashvaa_.png">
+        <link rel ="icon" type="image/png" href="Ashvaa_Final_Logo-01_white.png">
 
 		<!-- fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700" rel="stylesheet" type="text/css">
@@ -875,9 +875,7 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
 					</div>
 				</div><!-- column end -->
 				<!-- column start -->
-				<div class="twelve-columns">
-					<p class="p-letter-style text-color-4 footer-copyright">&copy; Copyright 2019 XEN. Theme by <a href="#">Jinna Gik</a></p>
-				</div><!-- column end -->
+				
 			</div><!-- flex-container end -->
 		</footer><!-- footer end -->
 		
@@ -885,6 +883,4 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
         <script src="assets/js/plugins.js"></script> 
         <script src="assets/js/main.js"></script>
 	</body>
-
-<!-- Mirrored from www.nurseitmukaytegin.com/envato-templates/xen/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 20 Mar 2020 06:37:39 GMT -->
 </html>
