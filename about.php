@@ -254,7 +254,14 @@
 							</div>
 							<div class="eight-columns">
 								<div class="content-left-margin-10">
-									<p data-animation-child class="p-style-large text-color-5 fade-anim-box tr-delay01" data-animation="fade-anim">Godard slow-carb chartreuse occupy, tumblr letterpress pok pok tattooed yr lyft yuccie kinfolk. IPhone kombucha shaman gastropub snackwave 90's lo-fi pug chillwave pok pok tofu. Swag deep v listicle roof party seitan man braid raclette church-key trust fund locavore vexillologist green juice raw denim tilde meh. Austin thundercats locavore taiyaki snackwave hoodie put a bird on it tattooed selvage kitsch ramps. </p>
+									<p data-animation-child class="p-style-large text-color-5 fade-anim-box tr-delay01" data-animation="fade-anim">A team of creatives who collaborate to create stories that help our clients deliver measurable results to their audience 
+We are strategic we are creative 
+STRATEGY: strategy is the foundation of our approach. It’s the lens we utilize to identify what your brand stands for, to whom it should speak, what it would say and where it should say it 
+CREATIVITY: creativity is the platform through which we achieve resonance and elevate brand conversation 
+
+Started as a freelance skilled in different areas of design, development, videos, and animation. Passion turned into profession and here we are today
+Helped 100+ businesses and finished around 500+ projects
+</p>
 								</div>
 							</div><!-- column end -->
 							<!-- column start -->
