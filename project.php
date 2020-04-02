@@ -57,7 +57,7 @@
 		<nav class="nav-container dark-bg-1">
 			<!-- nav-logo start -->
 			<div class="nav-logo">
-				<img src="assets/images/logo/logo-white.png" alt="logo">
+				<img src="assets/images/logo/Ashvaa_.png" alt="logo">
 			</div><!-- nav-logo end -->
 			
 			<!-- menu-close -->

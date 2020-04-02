@@ -58,7 +58,7 @@
 		<nav class="nav-container dark-bg-1">
 			<!-- nav-logo start -->
 			<div class="nav-logo">
-				<img src="assets/images/logo/logo-white.png" alt="logo">
+				<img src="assets/images/logo/Ashvaa_.png" alt="logo">
 			</div><!-- nav-logo end -->
 			
 			<!-- menu-close -->
@@ -195,7 +195,7 @@
 					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/double-exposure-2390185_1920.jpg);"></div>
 				</li><!-- nav-box end -->
 			</ul><!-- nav-menu end -->
-		</nav><!-- nav-container end -->->
+		</nav><!-- nav-container end -->
 	    
 		<!-- animsition-overlay start -->
 		<main class="animsition-overlay" data-animsition-overlay="true">
