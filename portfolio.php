@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
     
-<!-- Mirrored from www.nurseitmukaytegin.com/envato-templates/xen/portfolio.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 20 Mar 2020 06:41:11 GMT -->
+<!-- Mirrored from www.nurseitmukaytegin.com/envato-templates/xen/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 20 Mar 2020 06:35:44 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>XEN</title>
+        <title>Ashvaa</title>
+        <link rel ="icon" type="image/png" href="Ashvaa_Final_Logo-01_white.png">
 
 		<!-- fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700" rel="stylesheet" type="text/css">
@@ -16,10 +17,10 @@
         <link href="assets/css/plugins.css" rel="stylesheet" type="text/css">
         <link href="assets/css/style.css" rel="stylesheet" type="text/css">
 	</head>
-	<body class="Ashvaa_.png">
+	<body class="loader">
 		<!-- loading start -->
 		<div class="loading">
-		    <img class="logo-loading" src="assets/images/logo/logo-Ashvaa_.png.png" alt="logo">
+		    <img class="logo-loading" src="assets/images/logo/Ashvaa_.png" alt="logo">
 	    </div><!-- loading end -->
 	    
 		<!-- pointer start -->
@@ -30,7 +31,7 @@
 		</div><!-- pointer end -->
 		
 		<!-- to-top-btn start -->
-		<a class="to-top-btn pointer-small" href="#up">
+		<a class="to-top-btn pointer-small" href="#up">	
 			  <span class="to-top-arrow"></span>		    
 		</a><!-- to-top-btn end -->
 	    
@@ -39,7 +40,7 @@
 		    <!-- header-flex-box start -->
 			<div class="header-flex-box">
 			    <!-- logo start -->
-				<a href="index-2.php" class="logo pointer-large animsition-link">
+				<a href="index.php" class="logo pointer-large animsition-link">
 					<div class="logo-img-box">
 				        <img class="logo-white" src="assets/images/logo/Ashvaa_.png" alt="logo">
 				        <img class="logo-black" src="assets/images/logo/Ashvaa_.png" alt="logo">
@@ -57,34 +58,34 @@
 		<nav class="nav-container dark-bg-1">
 			<!-- nav-logo start -->
 			<div class="nav-logo">
-				<img src="assets/images/logo/Ashvaa_.png" alt="logo">
+				<img src="assets/images/logo/logo-white.png" alt="logo">
 			</div><!-- nav-logo end -->
 			
 			<!-- menu-close -->
 			<div class="menu-close pointer-large"></div>
-			
+
 			<!-- dropdown-close-box start -->
 			<div class="dropdown-close-box">
 				<div class="dropdown-close pointer-large">
 					<span></span>
 				</div>
 			</div><!-- dropdown-close-box end -->
-			
+
 			<!-- nav-menu start -->
 			<ul class="nav-menu dark-bg-1">
 				<!-- nav-box start -->
-				<li class="nav-box nav-bg-change dropdown-open">
+				<li class="nav-box nav-bg-change active dropdown-open">
 					<a class="pointer-large nav-link">
-						<span class="nav-btn" data-text="Home">Home</span>
+					<a href="index.php"><span class="nav-btn active" data-text="Home">Home</span><a>
 					</a>
 					
 					<!-- dropdown start -->
 					<ul class="dropdown">
-						<li class="nav-box">
-							<a href="index-2.php" class="animsition-link pointer-large">
-								<span class="nav-btn" data-text="Slider Home">Slider Home</span>
+						<!-- <li class="nav-box">
+							<a href="index.php" class="animsition-link pointer-large">
+								<span class="nav-btn active" data-text="Slider Home">Slider Home</span>
 							</a>
-						</li>
+						</li> 
 						<li class="nav-box">
 							<a href="video_home.php" class="animsition-link pointer-large">
 								<span class="nav-btn" data-text="Video Bg">Video Bg</span>
@@ -104,7 +105,7 @@
 							<a href="home_typewriter.php" class="animsition-link pointer-large">
 								<span class="nav-btn" data-text="Typewriter">Typewriter</span>
 							</a>
-						</li>
+						</li> -->
 					</ul><!-- dropdown end -->
 					
 					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/pexels-photo-1806031.jpg);"></div>
@@ -124,16 +125,15 @@
 					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/bald-casual-facial-hair-1708528.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
-				<li class="nav-box nav-bg-change active dropdown-open">
-					<a class="pointer-large nav-link">
-						<span class="nav-btn active" data-text="Portfolio">Portfolio</span>
-					</a>
+				<a href="portfolio.php"class="animsition-link pointer-large"></a>
+							<a href="portfolio.php"><span class="nav-btn" data-text="Porftolio">Porftolio</span>
+							</a>
 					
 					<!-- dropdown start -->
-					<ul class="dropdown">
+				<!--	<ul class="dropdown">
 						<li class="nav-box">
 							<a href="portfolio.php" class="animsition-link pointer-large">
-								<span class="nav-btn active" data-text="Standard">Standard</span>
+								<span class="nav-btn" data-text="Standard">Standard</span>
 							</a>
 						</li>
 						<li class="nav-box">
@@ -168,10 +168,10 @@
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change dropdown-open">
 					<a class="pointer-large nav-link">
-						<span class="nav-btn" data-text="Blog">Blog</span>
+					<a href="blog.php"><span class="nav-btn" data-text="Blog">Blog</span></a>
 					</a>
 					
-					<!-- dropdown start -->
+					<!-- dropdown start 
 					<ul class="dropdown">
 						<li class="nav-box">
 							<a href="blog.php" class="animsition-link pointer-large">
@@ -607,9 +607,7 @@
 					</div>
 				</div><!-- column end -->
 				<!-- column start -->
-				<div class="twelve-columns">
-					<p class="p-letter-style text-color-4 footer-copyright">&copy; Copyright 2019 XEN. Theme by <a href="#">Jinna Gik</a></p>
-				</div><!-- column end -->
+				
 			</div><!-- flex-container end -->
 		</footer><!-- footer end -->
 		

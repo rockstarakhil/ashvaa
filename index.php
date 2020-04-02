@@ -40,7 +40,7 @@
 		    <!-- header-flex-box start -->
 			<div class="header-flex-box">
 			    <!-- logo start -->
-				<a href="index-2.php" class="logo pointer-large animsition-link">
+				<a href="index.php" class="logo pointer-large animsition-link">
 					<div class="logo-img-box">
 				        <img class="logo-white" src="assets/images/logo/Ashvaa_.png" alt="logo">
 				        <img class="logo-black" src="assets/images/logo/Ashvaa_.png" alt="logo">
@@ -76,16 +76,16 @@
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change active dropdown-open">
 					<a class="pointer-large nav-link">
-						<span class="nav-btn active" data-text="Home">Home</span>
+					<a href="index.php"><span class="nav-btn active" data-text="Home">Home</span><a>
 					</a>
 					
 					<!-- dropdown start -->
 					<ul class="dropdown">
-						<li class="nav-box">
-							<a href="index-2.php" class="animsition-link pointer-large">
+						<!-- <li class="nav-box">
+							<a href="index.php" class="animsition-link pointer-large">
 								<span class="nav-btn active" data-text="Slider Home">Slider Home</span>
 							</a>
-						</li>
+						</li> 
 						<li class="nav-box">
 							<a href="video_home.php" class="animsition-link pointer-large">
 								<span class="nav-btn" data-text="Video Bg">Video Bg</span>
@@ -105,7 +105,7 @@
 							<a href="home_typewriter.php" class="animsition-link pointer-large">
 								<span class="nav-btn" data-text="Typewriter">Typewriter</span>
 							</a>
-						</li>
+						</li> -->
 					</ul><!-- dropdown end -->
 					
 					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/pexels-photo-1806031.jpg);"></div>
@@ -125,13 +125,12 @@
 					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/bald-casual-facial-hair-1708528.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
-				<li class="nav-box nav-bg-change dropdown-open">
-					<a class="pointer-large nav-link">
-						<span class="nav-btn" data-text="Portfolio">Portfolio</span>
-					</a>
+				<a href="portfolio.php"class="animsition-link pointer-large"></a>
+							<a href="portfolio.php"><span class="nav-btn" data-text="Porftolio">Porftolio</span>
+							</a>
 					
 					<!-- dropdown start -->
-					<ul class="dropdown">
+				<!--	<ul class="dropdown">
 						<li class="nav-box">
 							<a href="portfolio.php" class="animsition-link pointer-large">
 								<span class="nav-btn" data-text="Standard">Standard</span>
@@ -169,10 +168,10 @@
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change dropdown-open">
 					<a class="pointer-large nav-link">
-						<span class="nav-btn" data-text="Blog">Blog</span>
+					<a href="blog.php"><span class="nav-btn" data-text="Blog">Blog</span></a>
 					</a>
 					
-					<!-- dropdown start -->
+					<!-- dropdown start 
 					<ul class="dropdown">
 						<li class="nav-box">
 							<a href="blog.php" class="animsition-link pointer-large">
@@ -816,14 +815,14 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
 				<!-- column start -->
 				<div class="two-columns bottom-padding-60">
 					<div class="content-right-margin-10 footer-center-mobile">
-						<img class="footer-logo" src="assets/images/logo/logo-white.png" alt="logo">
+						<img class="footer-logo" src="assets/images/logo/Ashvaa_.png" alt="logo">
 					</div>
 				</div><!-- column end -->
 				<!-- column start -->
 				<div class="three-columns bottom-padding-60">
 					<div class="content-left-right-margin-10">
 						<ul class="footer-menu text-color-4">
-							<li><a class="pointer-large animsition-link small-title-oswald hover-color active" href="index-2.php">Home</a></li>
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color active" href="index.php">Home</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="about.php">About</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="services.php">Services</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="portfolio.php">Portfolio</a></li>
