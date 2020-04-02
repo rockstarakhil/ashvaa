@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Ashvaa</title>
-        <link rel ="icon" type="image/png" href="Ashvaa_Final_Logo-01_white.png">
+        <link rel ="icon" type="image/png" href="Ashvaa_.png">
 
 		<!-- fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700" rel="stylesheet" type="text/css">

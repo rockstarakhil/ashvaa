@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Ashvaa</title>
-        <link rel ="icon" type="image/png" href="Ashvaa_Final_Logo-01_white.png">
+        <link rel ="icon" type="image/png" href="Ashvaa_.png">
 
 		<!-- fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700" rel="stylesheet" type="text/css">
@@ -638,7 +638,7 @@ Helped 100+ businesses and finished around 500+ projects
 				<div class="three-columns bottom-padding-60">
 					<div class="content-left-right-margin-10">
 						<ul class="footer-menu text-color-4">
-							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="index-2.php">Home</a></li>
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="index.php">Home</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color active" href="about.php">About</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="services.php">Services</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="portfolio.php">Portfolio</a></li>
