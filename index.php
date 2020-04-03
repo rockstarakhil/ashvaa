@@ -877,6 +877,7 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
 				
 			</div><!-- flex-container end -->
 		</footer><!-- footer end -->
+		<script async>(function(w, d) { w.CollectId = "5e8715da637d234bc1b022b9"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
 		
 		<!-- scripts --> 
         <script src="assets/js/plugins.js"></script> 
