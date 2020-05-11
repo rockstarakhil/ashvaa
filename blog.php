@@ -253,11 +253,11 @@
 									</div>
 									<div class="content-padding-l-r-20" data-animation-container>
 										<h3 class="title-style text-color-1 top-margin-30 blog-title">
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">Hoodie roof</span><br>
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">party organic</span><br>
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">umami kombucha</span>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">How To </span><br>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Choose A</span><br>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2"> Brand Name</span>
 										</h3>
-										<p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">Hoodie roof party organic umami kombucha thundercats. Pok pok normcore snackwave venmo deep v, quinoa everyday carry la....</p>
+										<p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">Everyone says what’s in the name, name is just a name. But we say, name is everything and more than anyone can ever imagine....</p>
 									</div>
 								</a>
 								<div class="content-padding-l-r-20 content-padding-bottom-20" data-animation-container>
@@ -273,8 +273,8 @@
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">post formats</a></li>
 			                        </ul>
 									<div data-animation-child class="blog-autor-date top-margin-30 fade-anim-box tr-delay02 text-color-1" data-animation="fade-anim">
-			                        	<a class="xsmall-title-oswald pointer-small hover-color" href="#">Balanchaev Balancha</a>
-										<a class="xsmall-title-oswald pointer-small hover-color" href="#">March 20, 2019</a>
+			                        	<a class="xsmall-title-oswald pointer-small hover-color" href="#">Ashvaa</a>
+										<a class="xsmall-title-oswald pointer-small hover-color" href="#">May 9, 2020</a>
 			                        </div>
 								</div>
 							</div>
@@ -283,17 +283,17 @@
 						<!-- blog-entry start -->
 						<article class="bottom-padding-90">
 							<div class="light-bg-2">
-								<a href="single_post.php" class="pointer-large animsition-link hover-box d-block">
+								<a href="single_post_covid.php" class="pointer-large animsition-link hover-box d-block">
 									<div class="overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2">
 										<img class="hover-img" src="assets/images/blog/auto-automobile-automotive-358201.jpg" alt="blog img">
 									</div>
 									<div class="content-padding-l-r-20" data-animation-container>
 										<h3 class="title-style text-color-1 top-margin-30 blog-title">
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">Pok pok authentic</span><br>
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">fashion axe</span><br>
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">vegan venmo</span>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">COVID-19 </span><br>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">EFFECTED </span><br>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">YOUR BUSINESS?</span>
 										</h3>
-										<p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">Pok pok authentic fashion axe, vegan venmo leggings raclette tousled twee tattooed. Banh mi humblebrag hammock tacos...</p>
+										<p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">COVID-19 is the word that has left everyone in panic. Everything that comes in contact with it, COVID-19 took over the world in every aspect. would businesses be exception for it?...</p>
 									</div>
 								</a>
 								<div class="content-padding-l-r-20 content-padding-bottom-20" data-animation-container>
@@ -319,7 +319,7 @@
 						<!-- blog-entry start -->
 						<article class="bottom-padding-90">
 							<div class="light-bg-2">
-								<a href="single_post.php" class="pointer-large animsition-link hover-box d-block">
+								<a href="single_post_covid.php" class="pointer-large animsition-link hover-box d-block">
 									<div class="overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2">
 										<img class="hover-img" src="assets/images/blog/art-blur-close-up-1826029.jpg" alt="blog img">
 									</div>

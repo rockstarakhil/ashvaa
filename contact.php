@@ -310,7 +310,7 @@
 					<!-- container start -->
 					<div class="container small top-bottom-padding-120">
 						<h4 class="small-title-oswald text-color-4 text-center">Lets Get In Touch!</h4>
-						<!-- flex-container start -->
+						<!-- flex-container start --> 
 						<form class="flex-container top-padding-90">
 							<!-- column start -->
 							<div class="four-columns">

@@ -319,9 +319,9 @@ Helped 100+ businesses and finished around 500+ projects
 					</div>
 					<div class="top-margin-30">
 						<h3 data-animation-child class="small-title-oswald text-color-2 text-height-20 fade-anim-box tr-delay01" data-animation="fade-anim">ENGAGE – Brief in hand, we immerse ourselves completely, analysing the brand and the competition to define the identity benchmark. Deign thinking tools, from persona thinking tool, from persona building to free associate and plotting customer journeys, are employed in intense brainstorming. To output a strategic brand positioning statement, including the target audience persona, benefits and values, to arrive at identity brief </h3>
-						<p data-animation-child class="p-style-xsmall text-color-1 fade-anim-box tr-delay02" data-animation="fade-anim">IDEATE – spring boarding from the strategic engage stage to the more freewheeling ideate, free listing and discussions in small groups explore alternate routes true to the positioning. This is like a scrum, and ideation without limits or boundaries is encouraged. All groups present visual ideas and the best ones re shortlisted to execution </p>
-						<p data-animation-child class="p-style-xsmall text-color-1 fade-anim-box tr-delay03" data-animation="fade-anim">EXECUTE – all shortlisted options are developed into a complete visual identity kit, which comprises all brand assets (brand mark, font families, colour palates, signature graphics, etc.)</p>
-						<p data-animation-child class="p-style-xsmall text-color-1 fade-anim-box tr-delay04" data-animation="fade-anim">these are then validated for adaptation across media, physical and digital. At this stage, ideas may be rejected before final options are represented to clients</p>
+						<p data-animation-child class="p-style-xsmall text-color-1 fade-anim-box tr-delay02" data-animation="fade-anim">IDEATE – Spring boarding from the strategic engage stage to the more freewheeling ideate, free listing and discussions in small groups explore alternate routes true to the positioning. This is like a scrum, and ideation without limits or boundaries is encouraged. All groups present visual ideas and the best ones re shortlisted to execution </p>
+						<p data-animation-child class="p-style-xsmall text-color-1 fade-anim-box tr-delay03" data-animation="fade-anim">EXECUTE – All shortlisted options are developed into a complete visual identity kit, which comprises all brand assets (brand mark, font families, colour palates, signature graphics, etc.)</p>
+						<p data-animation-child class="p-style-xsmall text-color-1 fade-anim-box tr-delay04" data-animation="fade-anim">ExecuteAll – These are then validated for adaptation across media, physical and digital. At this stage, ideas may be rejected before final options are represented to clients</p>
 					</div>
 				</div><!-- container end -->
 				
@@ -439,11 +439,11 @@ Helped 100+ businesses and finished around 500+ projects
 			</section><!-- section end -->
 			
 			
-			<!-- price-table start -->
+			<!-- price-table start 
 			<section class="price-table top-padding-120 bottom-padding-30 dark-bg-1">
-				<!-- container start -->
+				<!-- container start 
 				<div class="container small">
-					<!-- text-center start -->
+					<!-- text-center start 
 					<div data-animation-container class="text-center">
 						<h2 data-animation-child class="large-title text-height-10 text-color-4 overlay-anim-box2" data-animation="overlay-anim2">Our Pricing</h2><br>
 						<p data-animation-child class="fade-anim-box tr-delay02 text-color-4 xsmall-title-oswald top-margin-5" data-animation="fade-anim">We Provide the Best Prices for Business</p>
@@ -451,7 +451,7 @@ Helped 100+ businesses and finished around 500+ projects
 					
 					<!-- flex-container start -->
 					<div class="flex-container top-padding-60">
-						<!-- column start -->
+						<!-- column start 
 						<div class="four-columns bottom-padding-90">
 							<div class="content-right-margin-20 dark-bg-2 price-details price-details-margins">
 								<div class="pricing-title">
@@ -485,8 +485,8 @@ Helped 100+ businesses and finished around 500+ projects
                                 	<a href="#" class="price-btn">Sign up</a>
 								</div>
 							</div>
-						</div><!-- column end -->
-						<!-- column start -->
+						</div><!-- column end 
+						<!-- column start 
 						<div class="four-columns bottom-padding-90">
 							<div class="content-left-right-margin-10 dark-bg-2 price-details">
 								<div class="pricing-title price-title-paddings">
@@ -520,8 +520,8 @@ Helped 100+ businesses and finished around 500+ projects
                                 	<a href="#" class="price-btn">Sign up</a>
 								</div>
 							</div>
-						</div><!-- column end -->
-						<!-- column start -->
+						</div><!-- column end 
+						<!-- column start 
 						<div class="four-columns bottom-padding-90">
 							<div class="content-left-margin-20 dark-bg-2 price-details price-details-margins">
 								<div class="pricing-title">
@@ -555,10 +555,10 @@ Helped 100+ businesses and finished around 500+ projects
                                 	<a href="#" class="price-btn">Sign up</a>
 								</div>  
 							</div>
-						</div><!-- column end -->
-					</div><!-- flex-container end -->
-				</div><!-- container end -->
-			</section><!-- price-table end -->
+						</div> column end 
+					</div>< flex-container end 
+				</div><container end 
+			</section> --><
 			
 			<!-- light-bg-2 start -->
 			<div class="light-bg-2 top-bottom-padding-120" data-midnight="black">

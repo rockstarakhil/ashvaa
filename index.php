@@ -108,7 +108,7 @@
 						</li> -->
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/pexels-photo-1806031.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/home.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
@@ -122,9 +122,10 @@
 					<a href="services.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="Services">Services</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/bald-casual-facial-hair-1708528.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/services.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
+				<li class="nav-box nav-bg-change">
 				<a href="portfolio.php"class="animsition-link pointer-large"></a>
 							<a href="portfolio.php"><span class="nav-btn" data-text="Porftolio">Porftolio</span>
 							</a>
@@ -163,7 +164,7 @@
 						</li>
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/art-artistic-artsy-1988681.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/portfolio.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change dropdown-open">
@@ -185,14 +186,14 @@
 						</li>
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/beautiful-black-close-up-1689731.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/blog.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="contact.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="Contact">Contact</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/double-exposure-2390185_1920.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/contact.jpg);"></div>
 				</li><!-- nav-box end -->
 			</ul><!-- nav-menu end -->
 		</nav><!-- nav-container end -->
@@ -380,22 +381,22 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
 									<div class="content-right-margin-40">
 										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Commercial</span>
 										<h3 class="title-style text-color-1">
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Bushwick selfies</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Jain Slik</span><br>
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">pork belly lyft</span><br>
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">brooklyn messeng</span>
 										</h3>
 										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Narwhal pop-up intelligentsia tbh pinterest, microdosing tilde cloud bread gochujang tattooed leggings cornhole 8-bit. Austin fam chia cold-pressed raw denim. Glossier drinking vinegar portland lo-fi, polaroid bespoke lomo. Banjo art party XOXO, fashion axe sustainable retro ethical gentrify.</p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
-											<a href="project.php" class="arrow-btn pointer-large animsition-link">Read more</a>
+											<a href="jain.php" class="arrow-btn pointer-large animsition-link">Read more</a>
 										</div>
 										
 									</div>
 								</div><!-- column end -->
 								<!-- column start -->
 								<div class="six-columns top-padding-60">
-									<a href="project.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
-										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/projects/pexels-photo-1619654.jpg)"></div>
+									<a href="jain.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
+										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/pj/jainmockup.jpg)"></div>
 									</a>
 								</div><!-- column end -->
 							</div><!-- flex-container end -->
@@ -413,8 +414,8 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
 							<div class="flex-container reverse container small">
 								<!-- column start -->
 								<div class="six-columns top-padding-60">
-									<a href="project.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
-										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/projects/audio-cassette-cassette-tape-1626481.jpg)"></div>
+									<a href="lohitha.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
+										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/pj/LohithaMockup.jpg)"></div>
 									</a>
 								</div><!-- column end -->
 								<!-- column start -->
@@ -422,14 +423,14 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
 									<div class="content-left-margin-40">
 										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Graphic Design</span>
 										<h3 class="title-style text-color-1">
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">tumeric tumblr</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Lohitha</span><br>
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">gluten-free</span><br>
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Man bun small</span>
 										</h3>
 										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Slow-carb green juice subway tile bicycle rights, fanny pack raclette palo santo put a bird on it mustache actually fam mumblecore iPhone. Iceland post-ironic health goth snackwave, mixtape synth four dollar toast sartorial. Health goth la croix vexillologist, before they sold out shabby chic.</p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
-											<a href="project.php" class="arrow-btn pointer-large animsition-link">Read more</a>
+											<a href="lohitha.php" class="arrow-btn pointer-large animsition-link">Read more</a>
 										</div>
 										
 									</div>
@@ -452,22 +453,22 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
 									<div class="content-right-margin-40">
 										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Branding</span>
 										<h3 class="title-style text-color-1">
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">batch kombucha</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Pydah</span><br>
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">subway tile</span><br>
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">salvia brooklyn</span>
 										</h3>
 										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Mlkshk YOLO wolf, leggings vinyl crucifix stumptown tousled. Pabst venmo gentrify deep v microdosing migas occupy master cleanse intelligentsia sartorial chia activated charcoal. Iceland small batch live-edge raclette roof party dreamcatcher austin pickled. Chillwave cronut messenger bag truffaut.</p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
-											<a href="project.php" class="arrow-btn pointer-large animsition-link">Read more</a>
+											<a href="pydah.php" class="arrow-btn pointer-large animsition-link">Read more</a>
 										</div>
 										
 									</div>
 								</div><!-- column end -->
 								<!-- column start -->
 								<div class="six-columns top-padding-60">
-									<a href="project.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
-										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/projects/blur-close-up-equipment-1034651.jpg)"></div>
+									<a href="pydah.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
+										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/pj/pyd.jpg)"></div>
 									</a>
 								</div><!-- column end -->
 							</div><!-- flex-container end -->
@@ -485,8 +486,8 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
 							<div class="flex-container reverse container small">
 								<!-- column start -->
 								<div class="six-columns top-padding-60">
-									<a href="project.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
-										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/projects/chocolate-delicious-dessert-890500.jpg)"></div>
+									<a href="maruthi.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
+										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/pj/maruthi.jpg)"></div>
 									</a>
 								</div><!-- column end -->
 								<!-- column start -->
@@ -501,7 +502,7 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
 										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Tote bag cornhole pork belly swag, cronut hoodie snackwave 90's messenger bag pour-over disrupt chartreuse. Vape ugh cardigan hell of. Vaporware umami master cleanse neutra, chartreuse flexitarian lo-fi selvage hella hoodie freegan gentrify. 8-bit air plant umami asymmetrical franzen semiotics before.</p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
-											<a href="project.php" class="arrow-btn pointer-large animsition-link">Read more</a>
+											<a href="maruthi.php" class="arrow-btn pointer-large animsition-link">Read more</a>
 										</div>
 										
 									</div>

@@ -257,7 +257,7 @@
 						<!-- column start -->
 						<div class="four-columns">
 							<div data-animation-container class="content-right-margin-20">
-								<h2 data-animation-child class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">MARKET STRATEGIES AND CONSULTING</h2>
+								<h2 data-animation-child class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">BRANDING,DESIGN & ADVERTASING</h2>
 								<h3 class="title-style text-color-4">
 									<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">in-depth research &analysis</span><br>
 									<!--<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2"></span><br>
@@ -265,23 +265,32 @@
 								</h3>
 								<ul class="list-dots">
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay04" data-animation="fade-anim">Insight mining</p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay04" data-animation="fade-anim">Brand strategy </p>
 									</li>
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay05" data-animation="fade-anim">Consumer understanding </p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay05" data-animation="fade-anim">nameing & Brand Identity </p>
 									</li>
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay06" data-animation="fade-anim">Brand plans</p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay06" data-animation="fade-anim">Logo Design</p>
 									</li>
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay07" data-animation="fade-anim">Digital Branding</p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay07" data-animation="fade-anim">Visual Identity Systems</p>
 									</li>
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay08" data-animation="fade-anim">Reports & Analytics</p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay08" data-animation="fade-anim">Packaging</p>
 									</li>
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay09" data-animation="fade-anim">Infographics Content</p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay09" data-animation="fade-anim">Environmental/ Space Branding</p>
 									</li>
+
+									<li>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay09" data-animation="fade-anim">Research And Analysis</p>
+									</li>
+
+									<li>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay09" data-animation="fade-anim">Rebranding</p>
+									</li>
+
 								</ul>
 							</div>
 						</div><!-- column end -->
@@ -308,7 +317,7 @@ You can benefit by engaging us in any or all the areas. The beauty is that we as
 						<!-- column start -->
 						<div class="four-columns">
 							<div data-animation-container class="content-right-margin-20">
-								<h2 data-animation-child class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2"> BRANDING, DESIGNING & ADVERTISING</h2>
+								<h2 data-animation-child class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">ADVERTISING</h2>
 								<h3 class="title-style text-color-4">
 									<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">creating big ideas</span><br>
 									<!--<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2">ideas with striking execution</span><br>
@@ -316,22 +325,28 @@ You can benefit by engaging us in any or all the areas. The beauty is that we as
 								</h3>
 								<ul class="list-dots">
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay04" data-animation="fade-anim">SEO & Marketing</p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay04" data-animation="fade-anim">Planning. Research & Strategy</p>
 									</li>
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay05" data-animation="fade-anim">Digital Products</p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay05" data-animation="fade-anim">Positioning</p>
 									</li>
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay06" data-animation="fade-anim">Online Marketing</p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay06" data-animation="fade-anim">Campaigns</p>
 									</li>
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay07" data-animation="fade-anim">Product Design</p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay07" data-animation="fade-anim">TVC,Print,Outdoor,Radio</p>
 									</li>
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay08" data-animation="fade-anim">Strategy & Planing</p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay08" data-animation="fade-anim">Posters,Brochures,Mailers</p>
 									</li>
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay09" data-animation="fade-anim">Media Promotion</p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay09" data-animation="fade-anim">BTL Activation & Promotion</p>
+									</li>
+									<li>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay09" data-animation="fade-anim">Events & Concepts</p>
+									</li>
+									<li>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay09" data-animation="fade-anim">Photo & Video Production</p>
 									</li>
 								</ul>
 							</div>
@@ -359,31 +374,31 @@ it's core essence to sell happiness will remain constant forever.</p>
 						<!-- column start -->
 						<div class="four-columns">
 							<div data-animation-container class="content-right-margin-20">
-								<h2 data-animation-child class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2"> DIGITAL MARKETING</h2>
+								<h2 data-animation-child class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">DIGITAL MARKETING</h2>
 								<h3 class="title-style text-color-4">
-									<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">web designs UI/UX</span><br>
+									<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2"></span><br>
 									<!--<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2">, leveraging digital media to plan</span><br>
 									<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2">Cold-pressed blue</span> -->
 								</h3>
 								<ul class="list-dots">
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay04" data-animation="fade-anim">Content Marketing</p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay04" data-animation="fade-anim">SEO</p>
 									</li>
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay05" data-animation="fade-anim">Market Research</p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay05" data-animation="fade-anim">Social Media Advertising</p>
 									</li>
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay06" data-animation="fade-anim">Environment Consulting</p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay06" data-animation="fade-anim">PPC Advertising</p>
 									</li>
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay07" data-animation="fade-anim">User Interface</p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay07" data-animation="fade-anim">Web Design & Development</p>
 									</li>
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay08" data-animation="fade-anim">User Experience</p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay08" data-animation="fade-anim">Online Promotions</p>
 									</li>
-									<li>
+								<!--	<li>
 										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay09" data-animation="fade-anim">Experts & Analytics</p>
-									</li>
+									</li>  -->
 								</ul>
 							</div>
 						</div><!-- column end -->
@@ -542,7 +557,9 @@ and remarkably engage your current customers
 								</div>
 								<div class="expertise content-padding-l-r-20 content-padding-bottom-20">
 									<h3 data-animation-child class="small-title-oswald text-color-1 hover-content fade-anim-box tr-delay01" data-animation="fade-anim">Web design</h3><br>
-									<p data-animation-child class="p-style-xsmall text-color-1 hover-content fade-anim-box tr-delay02" data-animation="fade-anim">Sustainable polaroid wayfarers bespoke etsy, kickstarter gluten-free tacos shoreditch. Etsy chartreuse cornhole you probably haven't heard of them flannel ennui, gluten-free hashtag.</p>
+									<p data-animation-child class="p-style-xsmall text-color-1 hover-content fade-anim-box tr-delay02" data-animation="fade-anim">In business walking with trends and time is business. once your business is absent on the web customers suppose your merchandise and services as unauthentic.
+Being within the lead we tend to build your whole and merchandise noticeable through a made-to-order branded web site.
+With our web site style and development capabilities, we tend to assist you to identify you with success inside the world wide web.</p>
 								</div>
 							</a>
 						</div><!-- column end -->
@@ -553,8 +570,10 @@ and remarkably engage your current customers
 									<img class="hover-img" src="assets/images/services/business-business-people-calendar-1187439.jpg" alt="Digital products">
 								</div>
 								<div class="expertise content-padding-l-r-20 content-padding-bottom-20">
-									<h3 data-animation-child class="small-title-oswald text-color-1 hover-content fade-anim-box tr-delay01" data-animation="fade-anim">Media Promotion</h3><br>
-									<p data-animation-child class="p-style-xsmall text-color-1 hover-content fade-anim-box tr-delay02" data-animation="fade-anim">Stumptown plaid gochujang, kickstarter adaptogen synth distillery chicharrones green juice neutra vape. Dreamcatcher hella marfa pug air plant echo park pickled gochujang.</p>
+									<h3 data-animation-child class="small-title-oswald text-color-1 hover-content fade-anim-box tr-delay01" data-animation="fade-anim">Events & Media Promotion</h3><br>
+									<p data-animation-child class="p-style-xsmall text-color-1 hover-content fade-anim-box tr-delay02" data-animation="fade-anim">brand activation is the process of building awareness for a company by engaging directly with target audiences consumers. 
+This can be done through different event types or marketing campaigns, 
+as long as the effort results in a specific consumer experience that builds a company's notoriety.</p>
 								</div>
 							</a>
 						</div><!-- column end -->
@@ -565,7 +584,7 @@ and remarkably engage your current customers
 									<img class="hover-img" src="assets/images/services/analysis-analytics-application-590016.jpg" alt="Digital products">
 								</div>
 								<div class="expertise content-padding-l-r-20 content-padding-bottom-20">
-									<h3 data-animation-child class="small-title-oswald text-color-1 hover-content fade-anim-box tr-delay01" data-animation="fade-anim">Infographics Content</h3><br>
+									<h3 data-animation-child class="small-title-oswald text-color-1 hover-content fade-anim-box tr-delay01" data-animation="fade-anim">Graphic Design </h3><br>
 									<p data-animation-child class="p-style-xsmall text-color-1 hover-content fade-anim-box tr-delay02" data-animation="fade-anim">Kogi twee humblebrag yuccie brooklyn sriracha yr truffaut quinoa subway tile fingerstache hell of chillwave gentrify. Man bun hoodie live-edge coloring book ennui adaptogen PBR&B lo-fi.</p>
 								</div>
 							</a>
