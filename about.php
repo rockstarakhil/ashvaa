@@ -108,23 +108,24 @@
 						</li> -->
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/pexels-photo-1806031.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/home.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="about.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="About">About</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/adolescent-adult-diversity-1034361.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/pex.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="services.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="Services">Services</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/bald-casual-facial-hair-1708528.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/services.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
+				<li class="nav-box nav-bg-change">
 				<a href="portfolio.php"class="animsition-link pointer-large"></a>
 							<a href="portfolio.php"><span class="nav-btn" data-text="Porftolio">Porftolio</span>
 							</a>
@@ -163,7 +164,7 @@
 						</li>
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/art-artistic-artsy-1988681.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/port.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change dropdown-open">
@@ -183,26 +184,27 @@
 								<span class="nav-btn" data-text="Single post">Single post</span>
 							</a>
 						</li>
-					</ul><!-- dropdown end -->
+					</ul>dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/beautiful-black-close-up-1689731.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/blog.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="contact.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="Contact">Contact</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/double-exposure-2390185_1920.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/contact.jpg);"></div>
 				</li><!-- nav-box end -->
 			</ul><!-- nav-menu end -->
 		</nav><!-- nav-container end -->
+	    
 	    
 		<!-- animsition-overlay start -->
 		<main class="animsition-overlay" data-animsition-overlay="true">
 			<!-- page-head start -->
 			<section id="up" class="page-head flex-min-height-box dark-bg-2">
 				<!-- page-head-bg -->
-				<div class="page-head-bg overlay-loading2" style="background-image: url(assets/images/backgrounds/adolescent-adult-diversity-1034361.jpg);"></div>
+				<div class="page-head-bg overlay-loading2" style="background-image: url(assets/images/ashvaslider/about.jpg);"></div>
 				
 				<!-- flex-min-height-inner start -->
 	  			<div class="flex-min-height-inner">
@@ -211,7 +213,7 @@
 			  			<!-- column start -->
 			  			<div class="six-columns six-offset">
 				  			<div class="content-left-margin-40">
-					  			<h2 class="overlay-loading2 tr-delay03 medium-title red-color">Welcome Xen</h2>
+					  			<h2 class="overlay-loading2 tr-delay03 medium-title red-color">Welcome To Ashvaa</h2>
 				  				<h3 class="large-title-bold text-color-4">
 									<span class="overlay-loading2 overlay-light-bg-1 tr-delay04">Best Solutions</span><br>
 									<span class="overlay-loading2 overlay-light-bg-1 tr-delay05">& ideas for</span><br>
@@ -265,7 +267,7 @@ Helped 100+ businesses and finished around 500+ projects
 								</div>
 							</div><!-- column end -->
 							<!-- column start -->
-							<div class="four-columns top-padding-60">
+						<!--	<div class="four-columns top-padding-60">
 								<div class="content-right-margin-20">
 									<h6 data-animation-child class="small-title-oswald title-fill tr-delay02" data-animation="title-fill-anim" data-text="FWA">FWA</h6>
 									<ul class="list-dots">
@@ -279,7 +281,7 @@ Helped 100+ businesses and finished around 500+ projects
 								</div>
 							</div><!-- column end -->
 							<!-- column start -->
-							<div class="four-columns top-padding-60">
+						<!--	<div class="four-columns top-padding-60">
 								<div class="content-left-right-margin-10">
 									<h6 data-animation-child class="small-title-oswald title-fill tr-delay02" data-animation="title-fill-anim" data-text="CSS Design Awards">CSS Design Awards</h6>
 									<ul class="list-dots">
@@ -293,7 +295,7 @@ Helped 100+ businesses and finished around 500+ projects
 								</div>
 							</div><!-- column end -->
 							<!-- column start -->
-							<div class="four-columns top-padding-60">
+						<!--	<div class="four-columns top-padding-60">
 								<div class="content-left-margin-20">
 									<h6 data-animation-child class="small-title-oswald title-fill tr-delay02" data-animation="title-fill-anim" data-text="Awwwards">Awwwards</h6>
 									<ul class="list-dots">
@@ -319,9 +321,9 @@ Helped 100+ businesses and finished around 500+ projects
 					</div>
 					<div class="top-margin-30">
 						<h3 data-animation-child class="small-title-oswald text-color-2 text-height-20 fade-anim-box tr-delay01" data-animation="fade-anim">ENGAGE – Brief in hand, we immerse ourselves completely, analysing the brand and the competition to define the identity benchmark. Deign thinking tools, from persona thinking tool, from persona building to free associate and plotting customer journeys, are employed in intense brainstorming. To output a strategic brand positioning statement, including the target audience persona, benefits and values, to arrive at identity brief </h3>
-						<p data-animation-child class="p-style-xsmall text-color-1 fade-anim-box tr-delay02" data-animation="fade-anim">IDEATE – Spring boarding from the strategic engage stage to the more freewheeling ideate, free listing and discussions in small groups explore alternate routes true to the positioning. This is like a scrum, and ideation without limits or boundaries is encouraged. All groups present visual ideas and the best ones re shortlisted to execution </p>
-						<p data-animation-child class="p-style-xsmall text-color-1 fade-anim-box tr-delay03" data-animation="fade-anim">EXECUTE – All shortlisted options are developed into a complete visual identity kit, which comprises all brand assets (brand mark, font families, colour palates, signature graphics, etc.)</p>
-						<p data-animation-child class="p-style-xsmall text-color-1 fade-anim-box tr-delay04" data-animation="fade-anim">ExecuteAll – These are then validated for adaptation across media, physical and digital. At this stage, ideas may be rejected before final options are represented to clients</p>
+						<p data-animation-child class="small-title-oswald text-color-2 text-height-20 fade-anim-box tr-delay01" data-animation="fade-anim">IDEATE – Spring boarding from the strategic engage stage to the more freewheeling ideate, free listing and discussions in small groups explore alternate routes true to the positioning. This is like a scrum, and ideation without limits or boundaries is encouraged. All groups present visual ideas and the best ones re shortlisted to execution </p>
+						<p data-animation-child class="small-title-oswald text-color-2 text-height-20 fade-anim-box tr-delay01" data-animation="fade-anim">EXECUTE – All shortlisted options are developed into a complete visual identity kit, which comprises all brand assets (brand mark, font families, colour palates, signature graphics, etc.)</p>
+						<p data-animation-child class="small-title-oswald text-color-2 text-height-20 fade-anim-box tr-delay01" data-animation="fade-anim">ExecuteAll – These are then validated for adaptation across media, physical and digital. At this stage, ideas may be rejected before final options are represented to clients</p>
 					</div>
 				</div><!-- container end -->
 				
@@ -651,49 +653,42 @@ Helped 100+ businesses and finished around 500+ projects
 				<div class="four-columns bottom-padding-60">
 					<div class="content-left-right-margin-10 footer-center-mobile">
 						<ul class="footer-information text-color-4">
-							<li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">email@xen_agency.com</a></li>
-							<li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+23 8 8532 7834</a></li>
-							<li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17">PO Box 223158 Oliver Street<br><span>East Victoria 2006 UK</span></a></li>
+							<li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">ashvaacreativeco@gmail.com | | hello@ashvaa.in</a></li>
+							<li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+91-8886499333</a></li>
+							<li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17">11-11-2,opp, Vivekananda Park<br><span>Ramaraopeta, Kakinada</span></a></li>
 						</ul>
 					</div>
 				</div><!-- column end -->
+				<!-- column start -->
+			
 				<!-- column start -->
 				<div class="three-columns bottom-padding-60">
 					<div class="content-left-margin-10">
 						<ul class="footer-social">
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Instagram">Instagram</a>
+									<a href="https://www.instagram.com/ashvaacreative/" target="_blank"class="flip-btn pointer-small" data-text="Instagram">Instagram</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
+									<a href="https://www.facebook.com/ashvaacreativeco/" target="_blank" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Spotify">Spotify</a>
+									<a href="https://www.youtube.com/channel/UCKWlSu6m_3_i7MPnvEBAhlQ" target="_blank" class="flip-btn pointer-small" data-text="Youtube">Youtube</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Vimeo">Vimeo</a>
+									<a href="https://www.behance.net/ashvaacrea491e" target="_blank" class="flip-btn pointer-small" data-text="Behance">Behance</a>
 								</div>
 							</li>
-							<li>
-								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Behance">Behance</a>
-								</div>
-							</li>
+							
 						</ul>
 					</div>
 				</div><!-- column end -->
-				<!-- column start -->
-				<div class="twelve-columns">
-					<p class="p-letter-style text-color-4 footer-copyright">&copy; Copyright 2019 XEN. Theme by <a href="#">Jinna Gik</a></p>
-				</div><!-- column end -->
-			</div><!-- flex-container end -->
 		</footer><!-- footer end -->
 		
 		<!-- scripts --> 

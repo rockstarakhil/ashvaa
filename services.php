@@ -108,23 +108,24 @@
 						</li> -->
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/pexels-photo-1806031.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/home.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="about.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="About">About</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/adolescent-adult-diversity-1034361.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/pex.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="services.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="Services">Services</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/bald-casual-facial-hair-1708528.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/services.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
+				<li class="nav-box nav-bg-change">
 				<a href="portfolio.php"class="animsition-link pointer-large"></a>
 							<a href="portfolio.php"><span class="nav-btn" data-text="Porftolio">Porftolio</span>
 							</a>
@@ -163,7 +164,7 @@
 						</li>
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/art-artistic-artsy-1988681.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/port.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change dropdown-open">
@@ -185,24 +186,25 @@
 						</li>
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/beautiful-black-close-up-1689731.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/blog.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="contact.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="Contact">Contact</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/double-exposure-2390185_1920.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/contact.jpg);"></div>
 				</li><!-- nav-box end -->
 			</ul><!-- nav-menu end -->
 		</nav><!-- nav-container end -->
+	    
 	    
 		<!-- animsition-overlay start -->
 		<main class="animsition-overlay" data-animsition-overlay="true">
 			<!-- page-head start -->
 			<section id="up" class="page-head flex-min-height-box dark-bg-2">
 				<!-- page-head-bg -->
-				<div class="page-head-bg overlay-loading2" style="background-image: url(assets/images/backgrounds/bald-casual-facial-hair-1708528.jpg);"></div>
+				<div class="page-head-bg overlay-loading2" style="background-image: url(assets/images/ashvaslider/services.jpg);"></div>
 				
 				<!-- flex-min-height-inner start -->
 	  			<div class="flex-min-height-inner">
@@ -217,7 +219,7 @@
 									<span class="load-title-fill tr-delay05" data-text="Services">Services</span>
 								</h2>
 								<p class="p-style-bold-up text-height-20 d-flex-wrap">
-									<span class="load-title-fill tr-delay08" data-text="XOXO fam brunch">XOXO fam brunch</span>
+									<span class="load-title-fill tr-delay08" data-text="Ashvaa">Ashvaa</span>
 									<span class="load-title-fill tr-delay09" data-text="retro intelligentsia">retro intelligentsia</span>
 									<span class="load-title-fill tr-delay10" data-text="live-edge vegan">live-edge vegan</span>
 								</p>
@@ -443,8 +445,8 @@ and remarkably engage your current customers
 									<!-- progress-box start -->
 								    <div class="progress-box">
 								        <div data-animation-child class="p-letter-style title-fill" data-animation="title-fill-anim" data-text="Graphic Design">Graphic Design</div>
-								        <div data-animation-child class="p-letter-style title-fill tr-delay02 progress-counter" data-animation="title-fill-anim" data-text="63%">63%</div>
-								        <div class="progress-zero" data-progress="63%">
+								        <div data-animation-child class="p-letter-style title-fill tr-delay02 progress-counter" data-animation="title-fill-anim" data-text="90%">90%</div>
+								        <div class="progress-zero" data-progress="90%">
 								        	<div class="progress-full" data-animation-child data-animation="slide-progress"></div>   
 								        	<div class="progress-full progress-full-red" data-animation-child data-animation="slide-progress" data-animation-delay="200ms"></div>
 								        </div>
@@ -461,8 +463,8 @@ and remarkably engage your current customers
 								    <!-- progress-box start -->
 								    <div class="progress-box">
 								        <div data-animation-child class="p-letter-style title-fill tr-delay02" data-animation="title-fill-anim" data-text="Business Planing">Business Planing</div>
-								        <div data-animation-child class="p-letter-style title-fill tr-delay04 progress-counter" data-animation="title-fill-anim" data-text="100%">100%</div>
-								        <div class="progress-zero" data-progress="100%">
+								        <div data-animation-child class="p-letter-style title-fill tr-delay04 progress-counter" data-animation="title-fill-anim" data-text="70%">70%</div>
+								        <div class="progress-zero" data-progress="70%">
 								        	<div class="progress-full" data-animation-child data-animation="slide-progress" data-animation-delay="200ms"></div>
 								        	<div class="progress-full progress-full-red" data-animation-child data-animation="slide-progress" data-animation-delay="400ms"></div>                    
 								        </div>
@@ -470,8 +472,8 @@ and remarkably engage your current customers
 									<!-- progress-box start -->
 									<div class="progress-box">
 								        <div data-animation-child class="p-letter-style title-fill tr-delay03" data-animation="title-fill-anim" data-text="Photography">Photography</div>
-								        <div data-animation-child class="p-letter-style title-fill tr-delay05 progress-counter" data-animation="title-fill-anim" data-text="93%">93%</div>
-								        <div class="progress-zero" data-progress="93%">
+								        <div data-animation-child class="p-letter-style title-fill tr-delay05 progress-counter" data-animation="title-fill-anim" data-text="90%">90%</div>
+								        <div class="progress-zero" data-progress="90%">
 								        	<div class="progress-full" data-animation-child data-animation="slide-progress" data-animation-delay="300ms"></div>   
 								        	<div class="progress-full progress-full-red" data-animation-child data-animation="slide-progress" data-animation-delay="500ms"></div>                 
 								        </div>
@@ -488,8 +490,8 @@ and remarkably engage your current customers
 								    <!-- progress-box start -->
 								    <div class="progress-box">
 								        <div data-animation-child class="p-letter-style title-fill tr-delay05" data-animation="title-fill-anim" data-text="Strategic Consulting">Strategic Consulting</div>
-								        <div data-animation-child class="p-letter-style title-fill tr-delay07 progress-counter" data-animation="title-fill-anim" data-text="87%">87%</div>
-								        <div class="progress-zero" data-progress="87%">
+								        <div data-animation-child class="p-letter-style title-fill tr-delay07 progress-counter" data-animation="title-fill-anim" data-text="85%">85%</div>
+								        <div class="progress-zero" data-progress="85%">
 								        	<div class="progress-full" data-animation-child data-animation="slide-progress" data-animation-delay="500ms"></div>     
 								        	<div class="progress-full progress-full-red" data-animation-child data-animation="slide-progress" data-animation-delay="700ms"></div>               
 								        </div>
@@ -736,44 +738,43 @@ as long as the effort results in a specific consumer experience that builds a co
 				<div class="four-columns bottom-padding-60">
 					<div class="content-left-right-margin-10 footer-center-mobile">
 						<ul class="footer-information text-color-4">
-							<li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">email@xen_agency.com</a></li>
-							<li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+23 8 8532 7834</a></li>
-						<li><i class="fas fa-map-marker-alt"></i><a href="https://g.page/ashvaacreativeco?share" class="xsmall-title-oswald text-height-17">PO Box 223158 Oliver Street<br><span>East Victoria 2006 UK</span></a></li></a>
+							<li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">ashvaacreativeco@gmail.com | | hello@ashvaa.in</a></li>
+							<li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+91-8886499333</a></li>
+							<li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17">11-11-2,opp, Vivekananda Park<br><span>Ramaraopeta, Kakinada</span></a></li>
 						</ul>
 					</div>
 				</div><!-- column end -->
+				
 				<!-- column start -->
 				<div class="three-columns bottom-padding-60">
 					<div class="content-left-margin-10">
 						<ul class="footer-social">
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Instagram">Instagram</a>
+									<a href="https://www.instagram.com/ashvaacreative/" target="_blank"class="flip-btn pointer-small" data-text="Instagram">Instagram</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
+									<a href="https://www.facebook.com/ashvaacreativeco/" target="_blank" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Spotify">Spotify</a>
+									<a href="https://www.youtube.com/channel/UCKWlSu6m_3_i7MPnvEBAhlQ" target="_blank" class="flip-btn pointer-small" data-text="Youtube">Youtube</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Vimeo">Vimeo</a>
+									<a href="https://www.behance.net/ashvaacrea491e" target="_blank" class="flip-btn pointer-small" data-text="Behance">Behance</a>
 								</div>
 							</li>
-							<li>
-								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Behance">Behance</a>
-								</div>
-							</li>
+							
 						</ul>
 					</div>
 				</div><!-- column end -->
+				<!-- column start -->
+				
 				<!-- column start -->
 				
 			</div><!-- flex-container end -->

@@ -115,7 +115,7 @@
 					<a href="about.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="About">About</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/adolescent-adult-diversity-1034361.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/about.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
@@ -164,7 +164,7 @@
 						</li>
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/portfolio.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/port.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change dropdown-open">
@@ -203,7 +203,7 @@
 			<!-- page-head start -->
 			<section id="up" class="page-head flex-min-height-box dark-bg-1">
 				<!-- page-head-bg -->
-				<div class="page-head-bg overlay-loading2" style="background-image: url(assets/images/backgrounds/art-artistic-artsy-1988681.jpg);"></div>
+				<div class="page-head-bg overlay-loading2" style="background-image: url(assets/images/ashvaslider/port.jpg);"></div>
 				
 				<!-- flex-min-height-inner start -->
 	  			<div class="flex-min-height-inner">
@@ -243,7 +243,7 @@
 				<!-- container start -->
 				<div data-animation-container class="container small bottom-padding-60 text-center">
 					<h2 data-animation-child class="large-title text-height-10 text-color-1 overlay-anim-box2" data-animation="overlay-anim2">Recent Works</h2><br>
-					<p data-animation-child class="fade-anim-box tr-delay02 text-color-1 xsmall-title-oswald top-margin-5" data-animation="fade-anim">We Offer Digital Solutions</p>
+				<!--	<p data-animation-child class="fade-anim-box tr-delay02 text-color-1 xsmall-title-oswald top-margin-5" data-animation="fade-anim">We Offer Digital Solutions</p> -->
 				</div><!-- container end -->
 				
 				<!-- bottom-padding-90 start -->
@@ -257,13 +257,13 @@
 								<!-- column start -->
 								<div data-animation-container class="six-columns">
 									<div class="content-right-margin-40">
-										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Retail</span>
+											<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Retail Branding</span>
 										<h3 class="title-style text-color-1">
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Jain Silk Palace</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">since 1958</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Great Quality</span>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Jain Slik Palace</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">Retail Shopping Mall</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Kakinada</span>
 										</h3>
-										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Narwhal pop-up intelligentsia tbh pinterest, microdosing tilde cloud bread gochujang tattooed leggings cornhole 8-bit. Austin fam chia cold-pressed raw denim. Glossier drinking vinegar portland lo-fi, polaroid bespoke lomo. Banjo art party XOXO, fashion axe sustainable retro ethical gentrify.</p>
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">We conceived and executed a mix of digital strategies and activation ideas that heightened the curiosity among the people in the neighbourhood, leading to exceptional footfalls in the store.</p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
 											<a href="jain.php" class="arrow-btn pointer-large animsition-link">Read more</a>
@@ -299,13 +299,13 @@
 								<!-- column start -->
 								<div data-animation-container class="six-columns">
 									<div class="content-left-margin-40">
-										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Web design</span>
+										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">FMCG Branding</span>
 										<h3 class="title-style text-color-1">
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Lohitha</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">gluten-free</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Man bun small</span>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">FMCG company </span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Kakinada</span>
 										</h3>
-										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Slow-carb green juice subway tile bicycle rights, fanny pack raclette palo santo put a bird on it mustache actually fam mumblecore iPhone. Iceland post-ironic health goth snackwave, mixtape synth four dollar toast sartorial. Health goth la croix vexillologist, before they sold out shabby chic.</p>
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Pattabhi agro foods private limited (Lohitha brand), is an FMCG company is engaged in paddy purchases, processing, milling and grading of rice and its bi-products </p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
 											<a href="lohitha.php" class="arrow-btn pointer-large animsition-link">Read more</a>
@@ -329,13 +329,15 @@
 								<!-- column start -->
 								<div data-animation-container class="six-columns">
 									<div class="content-right-margin-40">
-										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Hospatality</span>
+										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Health Care Branding</span>
 										<h3 class="title-style text-color-1">
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Maruthi</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">subway tile</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">salvia brooklyn</span>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">MARUTHI DIAGNOSTICS</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2"> Advanced & Fully Automated Lab </span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Tuni</span>
 										</h3>
-										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Mlkshk YOLO wolf, leggings vinyl crucifix stumptown tousled. Pabst venmo gentrify deep v microdosing migas occupy master cleanse intelligentsia sartorial chia activated charcoal. Iceland small batch live-edge raclette roof party dreamcatcher austin pickled. Chillwave cronut messenger bag truffaut.</p>
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Maruthi Diagnostic lab is a diagnostic testing lab newly established in tuni 
+We have been entrusted the task of expanding the reach on the online world and also connect to the target audience	
+</p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
 											<a href="maruthi.php" class="arrow-btn pointer-large animsition-link">Read more</a>
@@ -371,13 +373,15 @@
 								<!-- column start -->
 								<div data-animation-container class="six-columns">
 									<div class="content-left-margin-40">
-										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Educational</span>
+										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Education Branding</span>
 										<h3 class="title-style text-color-1">
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Pydah</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">charcoal vape</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">viral ennui</span>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">Educational Institutions </span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Kakinada</span>
 										</h3>
-										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Tote bag cornhole pork belly swag, cronut hoodie snackwave 90's messenger bag pour-over disrupt chartreuse. Vape ugh cardigan hell of. Vaporware umami master cleanse neutra, chartreuse flexitarian lo-fi selvage hella hoodie freegan gentrify. 8-bit air plant umami asymmetrical franzen semiotics before.</p>
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">The Pydah Group Educational Institutions are the outcome from the untiring efforts of three generations since 1953.
+Our well-strategic and relevant content and designs gave them a consistent stream of high-quality leads for conversion.
+</p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
 											<a href="pydah.php" class="arrow-btn pointer-large animsition-link">Read more</a>
@@ -401,13 +405,13 @@
 								<!-- column start -->
 								<div data-animation-container class="six-columns">
 									<div class="content-right-margin-40">
-										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Siddardadh</span>
+										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Banking</span>
 										<h3 class="title-style text-color-1">
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Siddardadh</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">pork belly lyft</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">brooklyn messeng</span>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">SIDDHARTHA MACCS</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">Private Banking Sector</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Kakinada</span>
 										</h3>
-										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Narwhal pop-up intelligentsia tbh pinterest, microdosing tilde cloud bread gochujang tattooed leggings cornhole 8-bit. Austin fam chia cold-pressed raw denim. Glossier drinking vinegar portland lo-fi, polaroid bespoke lomo. Banjo art party XOXO, fashion axe sustainable retro ethical gentrify.</p>
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Siddartha maccs is leading private sector bank, which enables to invests the funds with the criteria of profitability, liquidity and security</p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
 											<a href="sid.php" class="arrow-btn pointer-large animsition-link">Read more</a>
@@ -443,16 +447,16 @@
 								<!-- column start -->
 								<div data-animation-container class="six-columns">
 									<div class="content-left-margin-40">
-										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Web design</span>
+										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Logo Design</span>
 										<h3 class="title-style text-color-1">
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">tumeric tumblr</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">gluten-free</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Man bun small</span>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Nilaya Constructions</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">Real Estate and Constructions</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Bengalaru	</span>
 										</h3>
-										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Slow-carb green juice subway tile bicycle rights, fanny pack raclette palo santo put a bird on it mustache actually fam mumblecore iPhone. Iceland post-ironic health goth snackwave, mixtape synth four dollar toast sartorial. Health goth la croix vexillologist, before they sold out shabby chic.</p>
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Construction/Realty major Nilaya approached us for their Visual Identity We took the challenge and delivered to the client’s expectations</p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
-											<a href="project.php" class="arrow-btn pointer-large animsition-link">Read more</a>
+											<a href="portfolio.php" class="arrow-btn pointer-large animsition-link">Read more</a>
 										</div>
 										
 									</div>
@@ -473,23 +477,23 @@
 								<!-- column start -->
 								<div data-animation-container class="six-columns">
 									<div class="content-right-margin-40">
-										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Graphic Design</span>
+										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Hospitality Branding</span>
 										<h3 class="title-style text-color-1">
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">batch kombucha</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">subway tile</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">salvia brooklyn</span>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">V K B RESIDENCY</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">3 Star Hotel</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Ongole</span>
 										</h3>
-										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Mlkshk YOLO wolf, leggings vinyl crucifix stumptown tousled. Pabst venmo gentrify deep v microdosing migas occupy master cleanse intelligentsia sartorial chia activated charcoal. Iceland small batch live-edge raclette roof party dreamcatcher austin pickled. Chillwave cronut messenger bag truffaut.</p>
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim"> The V K B Residency a 3star hotel offers an impressive collection of rooms and suits, centrally located at the Central Business District ongole, is a preferred place to hold Meeting, Events & Celebrations.</p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
-											<a href="project.php" class="arrow-btn pointer-large animsition-link">Read more</a>
+											<a href="vkb.php" class="arrow-btn pointer-large animsition-link">Read more</a>
 										</div>
 										
 									</div>
 								</div><!-- column end -->
 								<!-- column start -->
 								<div class="six-columns top-padding-60">
-									<a href="project.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
+									<a href="vkb.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
 										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/Mockups/mt/VKB.jpg)"></div>
 									</a>
 								</div><!-- column end -->
@@ -508,23 +512,23 @@
 							<div class="flex-container reverse container small">
 								<!-- column start -->
 								<div class="six-columns top-padding-60">
-									<a href="project.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
+									<a href="bay.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
 										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/Mockups/mt/br.jpg)"></div>
 									</a>
 								</div><!-- column end -->
 								<!-- column start -->
 								<div data-animation-container class="six-columns">
 									<div class="content-left-margin-40">
-										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Branding</span>
+										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Real Estate Branding</span>
 										<h3 class="title-style text-color-1">
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">organic activated</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">charcoal vape</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">viral ennui</span>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">BAYPALMS</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">Real Estate Venture</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Kakinada</span>
 										</h3>
-										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Tote bag cornhole pork belly swag, cronut hoodie snackwave 90's messenger bag pour-over disrupt chartreuse. Vape ugh cardigan hell of. Vaporware umami master cleanse neutra, chartreuse flexitarian lo-fi selvage hella hoodie freegan gentrify. 8-bit air plant umami asymmetrical franzen semiotics before.</p>
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Vanamali Urban Projects LLP (BayPlams) enterprising entrepreneurs with proven experience and expertise in real estate and properties.</p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
-											<a href="project.php" class="arrow-btn pointer-large animsition-link">Read more</a>
+											<a href="bay.php" class="arrow-btn pointer-large animsition-link">Read more</a>
 										</div>
 										
 									</div>
@@ -533,6 +537,168 @@
 						</div><!-- portfolio-content-inner end -->
 					</div><!-- portfolio-content end -->
 				</section><!-- bottom-padding-90 end -->
+
+
+
+
+
+				<section class="bottom-padding-90">
+					<!-- portfolio-content start -->
+					<div class="portfolio-content flex-min-height-box">
+						<!-- portfolio-content-inner start -->
+						<div class="portfolio-content-inner flex-min-height-inner">
+							<!-- flex-container start -->
+							<div class="flex-container container small">
+								<!-- column start -->
+								<div data-animation-container class="six-columns">
+									<div class="content-right-margin-40">
+										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Exhibition</span>
+										<h3 class="title-style text-color-1">
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">CREDAI</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">HOME EXPO -2017 </span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">KAKINADA</span>
+										</h3>
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim"> Credai Home Expo 2017, Presented by Credai Kakinada chapter, Home expo is held for 3 times in times in Kakinada and the organizers were not happy with the response for the previous years, Desired to make it BIG this time in 2017,  We closely worked with the organizers and created </p>
+										
+										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
+											<a href="credai.php" class="arrow-btn pointer-large animsition-link">Read more</a>
+										</div>
+										
+									</div>
+								</div><!-- column end -->
+								<!-- column start -->
+								<div class="six-columns top-padding-60">
+									<a href="credai.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
+										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/Mockups/mt/1.jpg)"></div>
+									</a>
+								</div><!-- column end -->
+							</div><!-- flex-container end -->
+						</div><!-- portfolio-content-inner end -->
+					</div><!-- portfolio-content end -->
+				</section><!-- bottom-padding-90 end -->
+
+
+
+				<!-- bottom-padding-90 start -->
+				<section class="bottom-padding-90">
+					<!-- portfolio-content start -->
+					<div class="portfolio-content flex-min-height-box">
+						<!-- portfolio-content-inner start -->
+						<div class="portfolio-content-inner flex-min-height-inner">
+							<!-- flex-container start -->
+							<div class="flex-container reverse container small">
+								<!-- column start -->
+								<div class="six-columns top-padding-60">
+									<a href="vsm.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
+										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/Mockups/mt/v3.jpg)"></div>
+									</a>
+								</div><!-- column end -->
+								<!-- column start -->
+								<div data-animation-container class="six-columns">
+									<div class="content-left-margin-40">
+										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Education Branding</span>
+										<h3 class="title-style text-color-1">
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">VSM GROUP</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">Educational Instutions</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Ramachandrapuram</span>
+										</h3>
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">We are roped in as a branding agency for VSM while they were in the process of re-branding themselves as a highly preferable college for engineering aspirants</p>
+										
+										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
+											<a href="vsm.php" class="arrow-btn pointer-large animsition-link">Read more</a>
+										</div>
+										
+									</div>
+								</div><!-- column end -->
+							</div><!-- flex-container end -->
+						</div><!-- portfolio-content-inner end -->
+					</div><!-- portfolio-content end -->
+				</section><!-- bottom-padding-90 end -->
+
+
+
+
+	<section class="bottom-padding-90">
+					<!-- portfolio-content start -->
+					<div class="portfolio-content flex-min-height-box">
+						<!-- portfolio-content-inner start -->
+						<div class="portfolio-content-inner flex-min-height-inner">
+							<!-- flex-container start -->
+							<div class="flex-container container small">
+								<!-- column start -->
+								<div data-animation-container class="six-columns">
+									<div class="content-right-margin-40">
+										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Retail Branding</span>
+										<h3 class="title-style text-color-1">
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">SARGAMS</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">RETAIL SHOPPING MALL </span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">KAKINADA</span>
+										</h3>
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim"> Sargams textiles was an family business running since 50 years in Kakinada. While they wanted to expand their business with an new addition of showroom in the town. </p>
+										
+										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
+											<a href="sar.php" class="arrow-btn pointer-large animsition-link">Read more</a>
+										</div>
+										
+									</div>
+								</div><!-- column end -->
+								<!-- column start -->
+								<div class="six-columns top-padding-60">
+									<a href="sar.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
+										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/Mockups/mt/s2.jpg)"></div>
+									</a>
+								</div><!-- column end -->
+							</div><!-- flex-container end -->
+						</div><!-- portfolio-content-inner end -->
+					</div><!-- portfolio-content end -->
+				</section><!-- bottom-padding-90 end -->
+
+
+
+
+
+				<!-- bottom-padding-90 start -->
+				<section class="bottom-padding-90">
+					<!-- portfolio-content start -->
+					<div class="portfolio-content flex-min-height-box">
+						<!-- portfolio-content-inner start -->
+						<div class="portfolio-content-inner flex-min-height-inner">
+							<!-- flex-container start -->
+							<div class="flex-container reverse container small">
+								<!-- column start -->
+								<div class="six-columns top-padding-60">
+									<a href="raj.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
+										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/Mockups/mt/R3.jpg)"></div>
+									</a>
+								</div><!-- column end -->
+								<!-- column start -->
+								<div data-animation-container class="six-columns">
+									<div class="content-left-margin-40">
+										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Retail Branding</span>
+										<h3 class="title-style text-color-1">
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">RAJDEEP SILVERZ</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">Silver Show Room</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Kakinada</span>
+										</h3>
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Rajdeep Silverz, being a pioneer in the silver business in Kakinada for over 25 years wanted to expand their business horizontally taking up different varieties silver</p>
+										
+										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
+											<a href="raj.php" class="arrow-btn pointer-large animsition-link">Read more</a>
+										</div>
+										
+									</div>
+								</div><!-- column end -->
+							</div><!-- flex-container end -->
+						</div><!-- portfolio-content-inner end -->
+					</div><!-- portfolio-content end -->
+				</section><!-- bottom-padding-90 end -->
+
+
+
+
+
+
+
 			</div><!-- light-bg-1 end -->
 			
 			<div class="text-center top-bottom-padding-120 red-bg" data-midnight="black">	
@@ -556,7 +722,7 @@
 				<div class="three-columns bottom-padding-60">
 					<div class="content-left-right-margin-10">
 						<ul class="footer-menu text-color-4">
-							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="index-2.php">Home</a></li>
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="index.php">Home</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="about.php">About</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="services.php">Services</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color active" href="portfolio.php">Portfolio</a></li>
@@ -569,9 +735,9 @@
 				<div class="four-columns bottom-padding-60">
 					<div class="content-left-right-margin-10 footer-center-mobile">
 						<ul class="footer-information text-color-4">
-							<li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">email@xen_agency.com</a></li>
-							<li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+23 8 8532 7834</a></li>
-							<li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17">PO Box 223158 Oliver Street<br><span>East Victoria 2006 UK</span></a></li>
+							<li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">ashvaacreativeco@gmail.com | | hello@ashvaa.in</a></li>
+							<li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+91-8886499333</a></li>
+							<li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17">11-11-2,opp, Vivekananda Park<br><span>Ramaraopeta, Kakinada</span></a></li>
 						</ul>
 					</div>
 				</div><!-- column end -->
@@ -581,29 +747,25 @@
 						<ul class="footer-social">
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Instagram">Instagram</a>
+									<a href="https://www.instagram.com/ashvaacreative/" target="_blank"class="flip-btn pointer-small" data-text="Instagram">Instagram</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
+									<a href="https://www.facebook.com/ashvaacreativeco/" target="_blank" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Spotify">Spotify</a>
+									<a href="https://www.youtube.com/channel/UCKWlSu6m_3_i7MPnvEBAhlQ" target="_blank" class="flip-btn pointer-small" data-text="Youtube">Youtube</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Vimeo">Vimeo</a>
+									<a href="https://www.behance.net/ashvaacrea491e" target="_blank" class="flip-btn pointer-small" data-text="Behance">Behance</a>
 								</div>
 							</li>
-							<li>
-								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Behance">Behance</a>
-								</div>
-							</li>
+							
 						</ul>
 					</div>
 				</div><!-- column end -->

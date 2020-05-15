@@ -108,23 +108,24 @@
 						</li> -->
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/pexels-photo-1806031.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/home.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="about.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="About">About</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/adolescent-adult-diversity-1034361.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/pex.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="services.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="Services">Services</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/bald-casual-facial-hair-1708528.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/services.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
+				<li class="nav-box nav-bg-change">
 				<a href="portfolio.php"class="animsition-link pointer-large"></a>
 							<a href="portfolio.php"><span class="nav-btn" data-text="Porftolio">Porftolio</span>
 							</a>
@@ -163,7 +164,7 @@
 						</li>
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/art-artistic-artsy-1988681.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/port.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change dropdown-open">
@@ -185,14 +186,14 @@
 						</li>
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/beautiful-black-close-up-1689731.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/blog.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="contact.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="Contact">Contact</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/double-exposure-2390185_1920.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/contact.jpg);"></div>
 				</li><!-- nav-box end -->
 			</ul><!-- nav-menu end -->
 		</nav><!-- nav-container end -->
@@ -202,7 +203,7 @@
 			<!-- page-head start -->
 			<section id="up" class="page-head flex-min-height-box dark-bg-1">
 				<!-- page-head-bg -->
-				<div class="page-head-bg overlay-loading2" style="background-image: url(assets/images/backgrounds/beautiful-black-close-up-1689731.jpg);"></div>
+				<div class="page-head-bg overlay-loading2" style="background-image: url(assets/images/ashvaslider/blog.jpg);"></div>
 				
 				<!-- flex-min-height-inner start -->
 	  			<div class="flex-min-height-inner">
@@ -247,9 +248,9 @@
 						<!-- blog-entry start -->
 						<article class="bottom-padding-90">
 							<div class="light-bg-2">
-								<a href="single_post.php" class="pointer-large animsition-link hover-box d-block">
+								<a href="brandname_post.php" class="pointer-large animsition-link hover-box d-block">
 									<div class="overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2">
-										<img class="hover-img" src="assets/images/blog/bodypaint-female-girl-50595.jpg" alt="blog img">
+										<img class="hover-img" src="assets/images/blog/brand.jpg" alt="blog img">
 									</div>
 									<div class="content-padding-l-r-20" data-animation-container>
 										<h3 class="title-style text-color-1 top-margin-30 blog-title">
@@ -283,9 +284,9 @@
 						<!-- blog-entry start -->
 						<article class="bottom-padding-90">
 							<div class="light-bg-2">
-								<a href="single_post_covid.php" class="pointer-large animsition-link hover-box d-block">
+								<a href="post_covid.php" class="pointer-large animsition-link hover-box d-block">
 									<div class="overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2">
-										<img class="hover-img" src="assets/images/blog/auto-automobile-automotive-358201.jpg" alt="blog img">
+										<img class="hover-img" src="assets/images/blog/covid.jpg" alt="blog img">
 									</div>
 									<div class="content-padding-l-r-20" data-animation-container>
 										<h3 class="title-style text-color-1 top-margin-30 blog-title">
@@ -650,41 +651,39 @@
 				<div class="four-columns bottom-padding-60">
 					<div class="content-left-right-margin-10 footer-center-mobile">
 						<ul class="footer-information text-color-4">
-							<li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">email@xen_agency.com</a></li>
-							<li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+23 8 8532 7834</a></li>
-							<li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17">PO Box 223158 Oliver Street<br><span>East Victoria 2006 UK</span></a></li>
+							<li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">ashvaacreativeco@gmail.com | | hello@ashvaa.in</a></li>
+							<li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+91-8886499333</a></li>
+							<li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17">11-11-2,opp, Vivekananda Park<br><span>Ramaraopeta, Kakinada</span></a></li>
 						</ul>
 					</div>
 				</div><!-- column end -->
+				<!-- column start -->
+			
 				<!-- column start -->
 				<div class="three-columns bottom-padding-60">
 					<div class="content-left-margin-10">
 						<ul class="footer-social">
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Instagram">Instagram</a>
+									<a href="https://www.instagram.com/ashvaacreative/" target="_blank"class="flip-btn pointer-small" data-text="Instagram">Instagram</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
+									<a href="https://www.facebook.com/ashvaacreativeco/" target="_blank" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Spotify">Spotify</a>
+									<a href="https://www.youtube.com/channel/UCKWlSu6m_3_i7MPnvEBAhlQ" target="_blank" class="flip-btn pointer-small" data-text="Youtube">Youtube</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Vimeo">Vimeo</a>
+									<a href="https://www.behance.net/ashvaacrea491e" target="_blank" class="flip-btn pointer-small" data-text="Behance">Behance</a>
 								</div>
 							</li>
-							<li>
-								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Behance">Behance</a>
-								</div>
-							</li>
+							
 						</ul>
 					</div>
 				</div><!-- column end -->

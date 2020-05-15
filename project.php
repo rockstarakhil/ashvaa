@@ -431,7 +431,7 @@
 				<!-- column start -->
 				<div class="two-columns bottom-padding-60">
 					<div class="content-right-margin-10 footer-center-mobile">
-						<img class="footer-logo" src="assets/images/logo/logo-white.png" alt="logo">
+						<img class="footer-logo" src="assets/images/logo/Ashvaa_.png" alt="logo">
 					</div>
 				</div><!-- column end -->
 				<!-- column start -->
@@ -451,9 +451,9 @@
 				<div class="four-columns bottom-padding-60">
 					<div class="content-left-right-margin-10 footer-center-mobile">
 						<ul class="footer-information text-color-4">
-							<li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">email@xen_agency.com</a></li>
-							<li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+23 8 8532 7834</a></li>
-							<li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17">PO Box 223158 Oliver Street<br><span>East Victoria 2006 UK</span></a></li>
+							<li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">ashvaacreativeco@gmail.com | | hello@ashvaa.in</a></li>
+							<li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+91-8886499333</a></li>
+							<li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17">11-11-2,opp, Vivekananda Park<br><span>Ramaraopeta, Kakinada</span></a></li>
 						</ul>
 					</div>
 				</div><!-- column end -->
@@ -463,27 +463,22 @@
 						<ul class="footer-social">
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Instagram">Instagram</a>
+									<a href="https://www.instagram.com/ashvaacreative/" target="_blank"class="flip-btn pointer-small" data-text="Instagram">Instagram</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
+									<a href="https://www.facebook.com/ashvaacreativeco/" target="_blank" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Spotify">Spotify</a>
+									<a href="https://www.youtube.com/channel/UCKWlSu6m_3_i7MPnvEBAhlQ" target="_blank" class="flip-btn pointer-small" data-text="Youtube">Youtube</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Vimeo">Vimeo</a>
-								</div>
-							</li>
-							<li>
-								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Behance">Behance</a>
+									<a href="https://www.behance.net/ashvaacrea491e" target="_blank" class="flip-btn pointer-small" data-text="Behance">Behance</a>
 								</div>
 							</li>
 						</ul>
@@ -491,7 +486,7 @@
 				</div><!-- column end -->
 				<!-- column start -->
 				<div class="twelve-columns">
-					<p class="p-letter-style text-color-4 footer-copyright">&copy; Copyright 2019 XEN. Theme by <a href="#">Jinna Gik</a></p>
+					
 				</div><!-- column end -->
 			</div><!-- flex-container end -->
 		</footer><!-- footer end -->

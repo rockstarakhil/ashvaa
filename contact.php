@@ -108,23 +108,24 @@
 						</li> -->
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/pexels-photo-1806031.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/home.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="about.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="About">About</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/adolescent-adult-diversity-1034361.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/pex.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="services.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="Services">Services</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/bald-casual-facial-hair-1708528.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/services.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
+				<li class="nav-box nav-bg-change">
 				<a href="portfolio.php"class="animsition-link pointer-large"></a>
 							<a href="portfolio.php"><span class="nav-btn" data-text="Porftolio">Porftolio</span>
 							</a>
@@ -163,7 +164,7 @@
 						</li>
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/art-artistic-artsy-1988681.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/port.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change dropdown-open">
@@ -185,14 +186,14 @@
 						</li>
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/beautiful-black-close-up-1689731.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/blog.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="contact.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="Contact">Contact</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/double-exposure-2390185_1920.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/contact.jpg);"></div>
 				</li><!-- nav-box end -->
 			</ul><!-- nav-menu end -->
 		</nav><!-- nav-container end -->
@@ -202,7 +203,7 @@
 			<!-- page-head start -->
 			<section id="up" class="page-head flex-min-height-box dark-bg-1">
 				<!-- page-head-bg -->
-				<div class="page-head-bg overlay-loading2" style="background-image: url(assets/images/backgrounds/double-exposure-2390185_1920.jpg);"></div>
+				<div class="page-head-bg overlay-loading2" style="background-image: url(assets/images/ashvaslider/contact.jpg);"></div>
 
 				<!-- flex-min-height-inner start -->
 	  			<div class="flex-min-height-inner">
@@ -217,9 +218,9 @@
 									<span class="load-title-fill tr-delay05" data-text="Your Businnes">Your Businnes</span>
 								</h2>
 								<p class="p-style-bold-up text-height-20 d-flex-wrap">
-									<span class="load-title-fill tr-delay08" data-text="XOXO fam brunch">XOXO fam brunch</span>
-									<span class="load-title-fill tr-delay09" data-text="retro intelligentsia">retro intelligentsia</span>
-									<span class="load-title-fill tr-delay10" data-text="live-edge vegan">live-edge vegan</span>
+									<span class="load-title-fill tr-delay08" data-text="Ashvaa ">Ashvaa</span>
+									<span class="load-title-fill tr-delay09" data-text="Creative">Creative Co</span>
+									<span class="load-title-fill tr-delay10" data-text="Add Agency">Add agency</span>
 								</p>
 				  			</div>
 			  			</div><!-- column end -->
@@ -257,15 +258,15 @@
 								<div data-animation-container class="content-right-margin-20">
 									<p data-animation-child class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Email us</p>
 									<p class="title-style text-color-4">
-										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">palo listicle</span><br>
-										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2">vape banjo</span><br>
-										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2">meditation</span>
+										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">Add Agency</span><br>
+										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2">Contact us </span><br>
+										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2">Here</span>
 									</p>
 									<h6 data-animation-child class="flip-btn-box fade-anim-box tr-delay04" data-animation="fade-anim">
-										<a href="#" class="flip-btn pointer-large" data-text="email@xen_agency.com">email@xen_agency.com</a>
+										<a href="#" class="flip-btn pointer-large" data-text="ASHVAACREATIVECO@GMAIL.COM">ASHVAACREATIVECO@GMAIL.COM</a>
 									</h6>
 									<h6 data-animation-child class="flip-btn-box fade-anim-box tr-delay04" data-animation="fade-anim">
-										<a href="#" class="flip-btn pointer-large" data-text="email@xen_job.com">email@xen_job.com</a>
+										<a href="#" class="flip-btn pointer-large" data-text="HELLO@ASHVAA.IN">HELLO@ASHVAA.IN</a>
 									</h6>
 								</div>
 							</div><!-- column end -->
@@ -274,12 +275,12 @@
 								<div data-animation-container class="content-left-right-margin-10">
 									<p data-animation-child class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Visit us</p>
 									<h6 class="title-style text-color-4">
-										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">PO Box 223158</span><br>
-										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2">Oliver Street</span><br>
-										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2">Victoria 2006</span>
+										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">11-11-2,</span><br>
+										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2">OPP, VIVEKANANDA PARK</span><br>
+										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2">RAMARAOPETA, KAKINADA</span>
 									</h6>
 									<div data-animation-child class="flip-btn-box fade-anim-box tr-delay04" data-animation="fade-anim">
-										<a href="#" class="flip-btn pointer-large" data-text="open in google maps">open in google maps</a>
+										<a href="https://g.page/ashvaacreativeco?share/" target="_blank" class="flip-btn pointer-large" data-text="open in google maps">open in google maps</a>
 									</div>
 								</div>
 							</div><!-- column end -->
@@ -288,12 +289,12 @@
 								<div data-animation-container class="content-left-margin-20">
 									<p data-animation-child class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Call us</p>
 									<p class="title-style text-color-4">
-										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">organic cred</span><br>
-										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2">Echo park DIY</span><br>
-										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2">hashtag irony</span>
+										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">Ashava Support</span><br>
+										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2">Is Here </span><br>
+										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2">At Your Service</span>
 									</p>
 									<h6 data-animation-child class="flip-btn-box fade-anim-box tr-delay04" data-animation="fade-anim">
-										<a href="#" class="flip-btn pointer-large" data-text="+23 8 8532 7834">+23 8 8532 7834</a>
+										<a href="#" class="flip-btn pointer-large" data-text="+91-8886499333">+91-8886499333</a>
 									</h6>
 								</div>
 							</div><!-- column end -->
@@ -362,7 +363,7 @@
 				<div class="three-columns bottom-padding-60">
 					<div class="content-left-right-margin-10">
 						<ul class="footer-menu text-color-4">
-							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="index-2.php">Home</a></li>
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="index.php">Home</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="about.php">About</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="services.php">Services</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="portfolio.php">Portfolio</a></li>
@@ -375,42 +376,41 @@
 				<div class="four-columns bottom-padding-60">
 					<div class="content-left-right-margin-10 footer-center-mobile">
 						<ul class="footer-information text-color-4">
-							<li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">email@xen_agency.com</a></li>
-							<li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+23 8 8532 7834</a></li>
-							<li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17">PO Box 223158 Oliver Street<br><span>East Victoria 2006 UK</span></a></li>
+							<li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">ashvaacreativeco@gmail.com | | hello@ashvaa.in</a></li>
+							<li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+91-8886499333</a></li>
+							<li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17">11-11-2,opp, Vivekananda Park<br><span>Ramaraopeta, Kakinada</span></a></li>
 						</ul>
 					</div>
 				</div><!-- column end -->
+				<!-- column start -->
+			
 				<!-- column start -->
 				<div class="three-columns bottom-padding-60">
 					<div class="content-left-margin-10">
 						<ul class="footer-social">
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Instagram">Instagram</a>
+									<a href="https://www.instagram.com/ashvaacreative/" target="_blank"class="flip-btn pointer-small" data-text="Instagram">Instagram</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
+									<a href="https://www.facebook.com/ashvaacreativeco/" target="_blank" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Spotify">Spotify</a>
+									<a href="https://www.youtube.com/channel/UCKWlSu6m_3_i7MPnvEBAhlQ" target="_blank" class="flip-btn pointer-small" data-text="Youtube">Youtube</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Vimeo">Vimeo</a>
+									<a href="https://www.behance.net/ashvaacrea491e" target="_blank" class="flip-btn pointer-small" data-text="Behance">Behance</a>
 								</div>
 							</li>
-							<li>
-								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Behance">Behance</a>
-								</div>
-							</li>
+							
 						</ul>
+
 					</div>
 				</div><!-- column end -->
 				<!-- column start -->

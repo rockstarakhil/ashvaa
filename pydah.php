@@ -164,7 +164,7 @@
 						</li>
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/portfolio.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/port.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change dropdown-open">
@@ -215,13 +215,13 @@
 				  			<div class="content-left-margin-40">
 				  				<h2 class="large-title">
 									<span class="load-title-fill tr-delay03" data-text="Pydah">Pydah</span><br>
-									<span class="load-title-fill tr-delay04" data-text="Palace"> Palace</span><br>
-									<span class="load-title-fill tr-delay05" data-text="Ultimate Quality">Ultimate Quality</span>
+									<span class="load-title-fill tr-delay04" data-text="Educational Institutions">Educational Institutions</span><br>
+									<span class="load-title-fill tr-delay05" data-text="Kakinada">Kakinada</span>
 								</h2>
 								<ul class="d-flex-wrap top-margin-20">
-									<li class="small-title-oswald text-height-20 load-title-fill tr-delay06 top-margin-10" data-text="Jain Slik">Brand</li>
-									<li class="small-title-oswald text-height-20 load-title-fill tr-delay07 top-margin-10" data-text="YEAR: 1958">YEAR: 1958</li>
-									<li class="small-title-oswald text-height-20 load-title-fill tr-delay08 top-margin-10" data-text="ROLE: Retail">ROLE: Retail </li>
+									<li class="small-title-oswald text-height-20 load-title-fill tr-delay06 top-margin-10" data-text="Pydah Group">Pydah Group</li>
+									<li class="small-title-oswald text-height-20 load-title-fill tr-delay07 top-margin-10" data-text="YEAR: 2016 -Present">YEAR: 2016-present</li>
+									<li class="small-title-oswald text-height-20 load-title-fill tr-delay08 top-margin-10" data-text="ROLE: Education Branding">ROLE: Education Branding</li>
 								</ul>
 				  			</div>
 			  			</div><!-- column end -->
@@ -249,19 +249,21 @@
 						<div class="four-columns bottom-padding-60">
 							<div class="content-right-margin-20">
 								<ul class="text-color-4 xsmall-title-oswald list-dots">
-									<li>User Interface</li>
-									<li>Media Promotion</li>
-									<li>SEO & Marketing</li>
-									<li>User Experience</li>
-									<li>Digital Branding</li>
-									<li>Creative Design</li>
+									<li>Outdoor banding</li>
+									<li>Advertising</li>
+									<li>Pamphlet design</li>
+									<li>Hand book design</li>
+									<!--<li>Digital Branding</li>
+									<li>Creative Design</li> -->
 								</ul>
 							</div>
 						</div><!-- column end -->
 						<!-- column start -->
 						<div class="eight-columns bottom-padding-60">
 							<div class="content-left-margin-20">
-								<p class="p-style-large text-color-4">Narwhal pop-up intelligentsia tbh pinterest, microdosing tilde cloud bread gochujang tattooed leggings cornhole 8-bit. Austin fam chia cold-pressed raw denim. Glossier drinking vinegar portland lo-fi, polaroid bespoke lomo. Banjo art party XOXO, fashion axe sustainable retro ethical gentrify. Occupy listicle hoodie viral, cred health goth farm-to-table pork belly slow-carb echo park shaman banjo. Next level brooklyn mumblecore keytar stumptown.</p>
+								<p class="p-style-large text-color-4">The Pydah Group Educational Institutions are the outcome from the untiring efforts of three generations since 1953.
+Our well-strategic and relevant content and designs gave them a consistent stream of high-quality leads for conversion.
+</p>
 							</div>
 						</div><!-- column end -->
 					</div><!-- flex-container end -->
@@ -274,19 +276,19 @@
 				<div class="flex-container container project-content">
 					<!-- column start -->
 					<div class="four-columns bottom-padding-60">
-						<div class="content-right-margin-20">
+					<!--	<div class="content-right-margin-20">
 							<h2 class="title-style text-color-1">
 								Craft beer single<br>
 								bicycle rights
 							</h2>
-						</div>
+						</div> -->
 					</div><!-- column end -->
 					<!-- column start -->
 					<div class="eight-columns bottom-padding-60">
-						<div class="content-left-margin-10">
+					<!--	<div class="content-left-margin-10">
 							<p class="p-style-medium text-color-2">Retro jean shorts cronut lumbersexual mixtape hella you probably haven't heard of them austin williamsburg af mustache pinterest. Mixtape kinfolk cray, wolf palo santo brunch iPhone. 3 wolf moon microdosing scenester, tilde roof party affogato typewriter celiac echo park craft beer bicycle rights man braid trust fund four dollar toast gentrify. IPhone humblebrag kale chips hell of. Brooklyn whatever chia deep v slow-carb lomo put a bird on.</p>
-						</div>
-					</div><!-- column end -->
+						</div> -->
+					</div><!-- column end --> 
 					<!-- column start -->
 					<div class="four-columns bottom-padding-60">
 						<div class="content-right-margin-20">
@@ -433,7 +435,7 @@
 				<!-- column start -->
 				<div class="two-columns bottom-padding-60">
 					<div class="content-right-margin-10 footer-center-mobile">
-						<img class="footer-logo" src="assets/images/logo/logo-white.png" alt="logo">
+						<img class="footer-logo" src="assets/images/logo/Ashvaa_.png" alt="logo">
 					</div>
 				</div><!-- column end -->
 				<!-- column start -->
@@ -453,9 +455,9 @@
 				<div class="four-columns bottom-padding-60">
 					<div class="content-left-right-margin-10 footer-center-mobile">
 						<ul class="footer-information text-color-4">
-							<li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">email@xen_agency.com</a></li>
-							<li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+23 8 8532 7834</a></li>
-							<li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17">PO Box 223158 Oliver Street<br><span>East Victoria 2006 UK</span></a></li>
+							<li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">ashvaacreativeco@gmail.com | | hello@ashvaa.in</a></li>
+							<li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+91-8886499333</a></li>
+							<li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17">11-11-2,opp, Vivekananda Park<br><span>Ramaraopeta, Kakinada</span></a></li>
 						</ul>
 					</div>
 				</div><!-- column end -->
@@ -465,27 +467,22 @@
 						<ul class="footer-social">
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Instagram">Instagram</a>
+									<a href="https://www.instagram.com/ashvaacreative/" target="_blank"class="flip-btn pointer-small" data-text="Instagram">Instagram</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
+									<a href="https://www.facebook.com/ashvaacreativeco/" target="_blank" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Spotify">Spotify</a>
+									<a href="https://www.youtube.com/channel/UCKWlSu6m_3_i7MPnvEBAhlQ" target="_blank" class="flip-btn pointer-small" data-text="Youtube">Youtube</a>
 								</div>
 							</li>
 							<li>
 								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Vimeo">Vimeo</a>
-								</div>
-							</li>
-							<li>
-								<div class="flip-btn-box">
-									<a href="#" class="flip-btn pointer-small" data-text="Behance">Behance</a>
+									<a href="https://www.behance.net/ashvaacrea491e" target="_blank" class="flip-btn pointer-small" data-text="Behance">Behance</a>
 								</div>
 							</li>
 						</ul>
@@ -493,7 +490,7 @@
 				</div><!-- column end -->
 				<!-- column start -->
 				<div class="twelve-columns">
-					<p class="p-letter-style text-color-4 footer-copyright">&copy; Copyright 2019 XEN. Theme by <a href="#">Jinna Gik</a></p>
+					
 				</div><!-- column end -->
 			</div><!-- flex-container end -->
 		</footer><!-- footer end -->
