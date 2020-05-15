@@ -115,7 +115,7 @@
 					<a href="about.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="About">About</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/adolescent-adult-diversity-1034361.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/about.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
@@ -164,7 +164,7 @@
 						</li>
 					</ul><!-- dropdown end -->
 					
-					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/portfolio.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/port.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change dropdown-open">
@@ -203,7 +203,7 @@
 			<!-- page-head start -->
 			<section id="up" class="page-head flex-min-height-box dark-bg-1">
 				<!-- page-head-bg -->
-				<div class="page-head-bg overlay-loading2" style="background-image: url(assets/images/pj/jainmockup.jpg);"></div>
+				<div class="page-head-bg overlay-loading2" style="background-image: url(assets/images/pj/vkb.jpg);"></div>
 				
 				
 				<!-- flex-min-height-inner start -->
@@ -213,15 +213,15 @@
 			  			<!-- column start -->
 			  			<div class="six-columns six-offset">
 				  			<div class="content-left-margin-40">
-				  				<h2 class="large-title">
-									<span class="load-title-fill tr-delay03" data-text="Jain Silk Palace">Jain Silk Palace</span><br>
-									<span class="load-title-fill tr-delay04" data-text="Retail Shopping Mall">Retail Shopping Mall</span><br>
+					  				<h2 class="large-title">
+									<span class="load-title-fill tr-delay03" data-text="V K B RESIDENCY">V K B RESIDENCY</span><br>
+									<span class="load-title-fill tr-delay04" data-text="3 STAR HOTEL">3 STAR HOTEL</span><br>
 									<span class="load-title-fill tr-delay05" data-text="Kakinada">Kakinada</span>
 								</h2>
 								<ul class="d-flex-wrap top-margin-20">
-									<li class="small-title-oswald text-height-20 load-title-fill tr-delay06 top-margin-10" data-text="Jain Slik">Retail Branding</li>
+									<li class="small-title-oswald text-height-20 load-title-fill tr-delay06 top-margin-10" data-text="Jain Slik">ONGOLE</li>
 									<li class="small-title-oswald text-height-20 load-title-fill tr-delay07 top-margin-10" data-text="YEAR: 2015-Present">YEAR: 2015- present</li>
-									<li class="small-title-oswald text-height-20 load-title-fill tr-delay08 top-margin-10" data-text="ROLE: Retail Branding">ROLE: Retail Branding</li>
+									<li class="small-title-oswald text-height-20 load-title-fill tr-delay08 top-margin-10" data-text="ROLE: Hospitality Branding">ROLE:Hospitality Branding</li>
 								</ul>
 				  			</div>
 			  			</div><!-- column end -->
@@ -249,10 +249,10 @@
 						<div class="four-columns bottom-padding-60">
 							<div class="content-right-margin-20">
 								<ul class="text-color-4 xsmall-title-oswald list-dots">
-									<li>Visual Identity, Design</li>
-									<li>Outdoor branding</li>
-									<li>Advertising</li>
-									<li>Digital Marketing</li>
+									<li>Brandingn</li>
+									<li>Website design</li>
+									<li>Photo & Video Content</li>
+									<!--<li>Digital Marketing</li> 
 									<li>Social Media Content</li>
 									<!--<li>Creative Design</li> -->
 								</ul>
@@ -261,8 +261,7 @@
 						<!-- column start -->
 						<div class="eight-columns bottom-padding-60">
 							<div class="content-left-margin-20">
-								<p class="p-style-large text-color-4">Jain Silk Palace is retail shopping mall, a well-known brand with sprawling showrooms in Kakinada since 1953.
-We conceived and executed a mix of digital strategies and activation ideas that heightened the curiosity among the people in the neighbourhood, leading to exceptional footfalls in the store.
+								<p class="p-style-large text-color-4"> The V K B Residency a 3star hotel offers an impressive collection of rooms and suits, centrally located at the Central Business District ongole, is a preferred place to hold Meeting, Events & Celebrations.
 </p>
 							</div>
 						</div><!-- column end -->

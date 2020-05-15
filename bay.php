@@ -115,7 +115,7 @@
 					<a href="about.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="About">About</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/adolescent-adult-diversity-1034361.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/about.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
@@ -291,24 +291,24 @@
 					<!-- column start -->
 					<div class="four-columns bottom-padding-60">
 						<div class="content-right-margin-20">
-							<a class="photo-popup pointer-zoom" href="assets/images/Mockups/sid/is.jpg">
-								<img src="assets/images/Mockups/sid/is.jpg" alt="title">
+							<a class="photo-popup pointer-zoom" href="assets/images/Mockups/bay/1.jpg">
+								<img src="assets/images/Mockups/bay/1.jpg" alt="title">
 							</a>
 						</div>
 					</div><!-- column end -->
 					<!-- column start -->
 					<div class="four-columns bottom-padding-60">
 						<div class="content-left-right-margin-10">
-							<a class="photo-popup pointer-zoom" href="assets/images/Mockups/sid/mockup1.jpg">
-								<img src="assets/images/Mockups/sid/mockup1.jpg" alt="title">
+							<a class="photo-popup pointer-zoom" href="assets/images/Mockups/bay/2.jpg">
+								<img src="assets/images/Mockups/bay/2.jpg" alt="title">
 							</a>
 						</div>
 					</div><!-- column end -->
 					<!-- column start -->
 					<div class="four-columns bottom-padding-60">
 						<div class="content-left-margin-20">
-							<a class="photo-popup pointer-zoom" href="assets/images/Mockups/sid/sid.jpg">
-								<img src="assets/images/Mockups/sid/sid.jpg" alt="title">
+							<a class="photo-popup pointer-zoom" href="assets/images/Mockups/bay/3.jpg">
+								<img src="assets/images/Mockups/bay/3.jpg" alt="title">
 							</a>
 						</div>
 					</div><!-- column end -->

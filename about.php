@@ -115,7 +115,7 @@
 					<a href="about.php" class="animsition-link pointer-large nav-link">
 						<span class="nav-btn" data-text="About">About</span>
 					</a>
-					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/pex.jpg);"></div>
+					<div class="nav-bg" style="background-image: url(assets/images/ashvaslider/about.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
