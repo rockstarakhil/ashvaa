@@ -214,14 +214,14 @@
 			  			<div class="six-columns six-offset">
 				  			<div class="content-left-margin-40">
 				  				<h2 class="large-title-bold">
-									<span class="load-title-fill tr-delay03" data-text="We’r Provided">We’r Provided</span><br>
-									<span class="load-title-fill tr-delay04" data-text="Best Digital">Best Digital</span><br>
-									<span class="load-title-fill tr-delay05" data-text="Services">Services</span>
+									<span class="load-title-fill tr-delay03" data-text="Fresh Ideas,">Fresh Ideas,</span><br>
+									<span class="load-title-fill tr-delay04" data-text="Refreshing">Refreshing</span><br>
+									<span class="load-title-fill tr-delay05" data-text="Communication">Communication</span>
 								</h2>
 								<p class="p-style-bold-up text-height-20 d-flex-wrap">
-									<span class="load-title-fill tr-delay08" data-text="Ashvaa">Ashvaa</span>
-									<span class="load-title-fill tr-delay09" data-text="retro intelligentsia">retro intelligentsia</span>
-									<span class="load-title-fill tr-delay10" data-text="live-edge vegan">live-edge vegan</span>
+									<span class="load-title-fill tr-delay08" data-text="The Power">The Power</span>
+									<span class="load-title-fill tr-delay09" data-text="of">of</span>
+									<span class="load-title-fill tr-delay10" data-text="Marketing Communication">Marketing Communication</span>
 								</p>
 				  			</div>
 			  			</div><!-- column end -->
@@ -587,7 +587,7 @@ as long as the effort results in a specific consumer experience that builds a co
 								</div>
 								<div class="expertise content-padding-l-r-20 content-padding-bottom-20">
 									<h3 data-animation-child class="small-title-oswald text-color-1 hover-content fade-anim-box tr-delay01" data-animation="fade-anim">Graphic Design </h3><br>
-									<p data-animation-child class="p-style-xsmall text-color-1 hover-content fade-anim-box tr-delay02" data-animation="fade-anim">Kogi twee humblebrag yuccie brooklyn sriracha yr truffaut quinoa subway tile fingerstache hell of chillwave gentrify. Man bun hoodie live-edge coloring book ennui adaptogen PBR&B lo-fi.</p>
+									<p data-animation-child class="p-style-xsmall text-color-1 hover-content fade-anim-box tr-delay02" data-animation="fade-anim">Our passionate graphic design team and brand strategists employ extraordinary marketing research skills to create a unique identity for your company. We apply our visual knowledge—into visual solutions. Logo design, marketing collateral, multimedia presentations, product packaging, indoor and outdoor signage, point of sale materials, and much more.</p>
 								</div>
 							</a>
 						</div><!-- column end -->

@@ -320,17 +320,17 @@
 						<!-- blog-entry start -->
 						<article class="bottom-padding-90">
 							<div class="light-bg-2">
-								<a href="single_post_covid.php" class="pointer-large animsition-link hover-box d-block">
+								<a href="covid_business.php" class="pointer-large animsition-link hover-box d-block">
 									<div class="overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2">
-										<img class="hover-img" src="assets/images/blog/art-blur-close-up-1826029.jpg" alt="blog img">
+										<img class="hover-img" src="assets/images/blog/smc.jpg" alt="blog img">
 									</div>
 									<div class="content-padding-l-r-20" data-animation-container>
 										<h3 class="title-style text-color-1 top-margin-30 blog-title">
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">Cloud bread</span><br>
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">messenger bag</span><br>
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">raw denim</span>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">Lock Down</span><br>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">has</span><br>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">affected Many Business</span>
 										</h3>
-										<p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">Cloud bread cardigan messenger bag raw denim swag drinking vinegar. Yuccie jianbing bespoke retro, photo booth salvia...</p>
+										<p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">Lockdown has affected many businesses, so every business need look for new marketing plans.</p>
 									</div>
 								</a>
 								<div class="content-padding-l-r-20 content-padding-bottom-20" data-animation-container>
