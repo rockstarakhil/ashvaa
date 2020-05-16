@@ -590,7 +590,7 @@ Our well-strategic and relevant content and designs gave them a consistent strea
 								<!-- column start -->
 								<div class="six-columns top-padding-60">
 									<a href="vsm.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
-										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/Mockups/mt/v3.jpg)"></div>
+										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/Mockups/mt/V3.jpg)"></div>
 									</a>
 								</div><!-- column end -->
 								<!-- column start -->
@@ -645,7 +645,7 @@ Our well-strategic and relevant content and designs gave them a consistent strea
 								<!-- column start -->
 								<div class="six-columns top-padding-60">
 									<a href="sar.php" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
-										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/Mockups/mt/s2.jpg)"></div>
+										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/Mockups/mt/S2.jpg)"></div>
 									</a>
 								</div><!-- column end -->
 							</div><!-- flex-container end -->

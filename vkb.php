@@ -291,7 +291,7 @@
 					<!-- column start -->
 					<div class="four-columns bottom-padding-60">
 						<div class="content-right-margin-20">
-							<a class="photo-popup pointer-zoom" href="assets/images/Mockups/Jain/a4.jpg.jpg">
+							<a class="photo-popup pointer-zoom" href="assets/images/Mockups/sid/sid.jpg">
 								<img src="assets/images/Mockups/Jain/a4.jpg" alt="title">
 							</a>
 						</div>
@@ -299,7 +299,7 @@
 					<!-- column start -->
 					<div class="four-columns bottom-padding-60">
 						<div class="content-left-right-margin-10">
-							<a class="photo-popup pointer-zoom" href="assets/images/Mockups/Jain/adv.jpg">
+							<a class="photo-popup pointer-zoom" href="assets/images/Mockups/sid/is.jpg">
 								<img src="assets/images/Mockups/Jain/adv.jpg" alt="title">
 							</a>
 						</div>
@@ -307,7 +307,7 @@
 					<!-- column start -->
 					<div class="four-columns bottom-padding-60">
 						<div class="content-left-margin-20">
-							<a class="photo-popup pointer-zoom" href="assets/images/Mockups/Jain/mocku3.jpg">
+							<a class="photo-popup pointer-zoom" href="assets/images/Mockups/sid/mocku1.jpg">
 								<img src="assets/images/Mockups/Jain/mocku3.jpg" alt="title">
 							</a>
 						</div>
