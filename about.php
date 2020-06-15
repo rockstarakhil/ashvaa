@@ -332,19 +332,19 @@ Helped 100+ businesses and finished around 500+ projects
 					<!-- swiper-wrapper start -->
 					<div class="swiper-wrapper">
 						<div class="swiper-slide">
-							<img src="assets/images/about/adult-brainstorming-business-1437908.jpg" alt="about">
+							<img src="assets/images/about/Pic1.jpg" alt="about">
 						</div>
 						<div class="swiper-slide">
-							<img src="assets/images/about/apple-computer-desk-159807.jpg" alt="about">
+							<img src="assets/images/about/Pic2.jpg" alt="about">
 						</div>
 						<div class="swiper-slide">
-							<img src="assets/images/about/apple-brainstorming-business-908288.jpg" alt="about">
+							<img src="assets/images/about/Pic3.jpg" alt="about">
 						</div>
 						<div class="swiper-slide">
-							<img src="assets/images/about/adult-bear-beautiful-792535.jpg" alt="about">
+							<img src="assets/images/about/Pic4.jpg" alt="about">
 						</div>
 						<div class="swiper-slide">
-							<img src="assets/images/about/hands-indoors-man-1204001.jpg" alt="about">
+							<img src="assets/images/about/Pic5.jpg" alt="about">
 						</div>
 					</div><!-- swiper-wrapper end -->
 					
