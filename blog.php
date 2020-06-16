@@ -475,25 +475,26 @@
 							<!-- sidebar-box start -->
 							<div class="sidebar-box">
 								<!-- form search start -->
-								<div class="top-bottom-padding-90">
+								<!--<div class="top-bottom-padding-90">
 									<form class="form-search">
 										<input type="text" class="search-control pointer-small" placeholder="Search...">
 										<button class="search-btn pointer-large" type="button"><i class="fas fa-search"></i></button>
 									</form>
 								</div><!-- form search end -->
+								<br>
 								
 								<!-- widget-categories start -->
 								<div class="widget-categories bottom-padding-90">
-									<h4 class="p-style-bold-up red-color">categories</h4>
+									<h4 class="p-style-bold-up red-color">List of All Blogs</h4>
 									<ul class="top-margin-30 red-color">
 										<li>
-											<a href="#" class="pointer-small small-title-oswald">Art (8)</a>
+											<a href="brandname_post.php" class="pointer-small small-title-oswald">BrandName</a>
 										</li>
 										<li>
-											<a href="#" class="pointer-small small-title-oswald">Culture (14)</a>
+											<a href="covid_business.php" class="pointer-small small-title-oswald">Covid -19</a>
 										</li>
 										<li>
-											<a href="#" class="pointer-small small-title-oswald">Design (46)</a>
+											<a href="post_covid.php" class="pointer-small small-title-oswald">Lockdown Affected Yor business</a>
 										</li>
 										<li>
 											<a href="#" class="pointer-small small-title-oswald">Production (21)</a>
@@ -508,11 +509,11 @@
 								</div><!-- widget-categories end -->
 							
 								<!-- recent posts start -->
-								<div class="bottom-padding-90">
+							<!--	<div class="bottom-padding-90">
 									<h4 class="p-style-bold-up red-color">recent posts</h4>
 									<!-- recent posts content start -->
 									<div class="top-margin-30">
-										<!-- recent-entry start -->
+										<!-- recent-entry start 
 										<div class="recent-entry">
 											<a href="single_post.php" class="recent-entry-img-box pointer-large animsition-link">
 												<img src="assets/images/blog/pexels-photo-305250.jpg" alt="title">
@@ -522,7 +523,7 @@
 												<div class="p-style-xsmall text-color-4 text-height-10 top-margin-5">December 28, 2018</div>
 											</div>
 										</div><!-- recent-entry end -->
-										<!-- recent-entry start -->
+										<!-- recent-entry start 
 										<div class="recent-entry">
 											<a href="single_post.php" class="recent-entry-img-box pointer-large animsition-link">
 												<img src="assets/images/blog/pexels-photo-348523.jpg" alt="title">
@@ -531,8 +532,8 @@
 												<a href="single_post.php" class="xsmall-title-oswald text-color-4 pointer-large animsition-link">Chambray enamel pin synth shabby</a>
 												<div class="p-style-xsmall text-color-4 text-height-10 top-margin-5">December 18, 2018</div>
 											</div>
-										</div><!-- recent-entry end -->
-										<!-- recent-entry start -->
+										</div><!-- recent-entry end 
+										<!-- recent-entry start 
 										<div class="recent-entry">
 											<a href="single_post.php" class="recent-entry-img-box pointer-large animsition-link">
 												<img src="assets/images/blog/pexels-photo-1057120.jpg" alt="title">
@@ -542,7 +543,7 @@
 												<div class="p-style-xsmall text-color-4 text-height-10 top-margin-5">December 14, 2018</div>
 											</div>
 										</div><!-- recent-entry end -->
-										<!-- recent-entry start -->
+										<!-- recent-entry start 
 										<div class="recent-entry">
 											<a href="single_post.php" class="recent-entry-img-box pointer-large animsition-link">
 												<img src="assets/images/blog/pexels-photo-1280553.jpg" alt="title">
@@ -556,7 +557,7 @@
 								</div><!-- recent posts end -->
 								
 								<!-- widget-tags start -->
-								<div class="widget-tags bottom-padding-90">
+							<!--	<div class="widget-tags bottom-padding-90">
 									<h4 class="p-style-bold-up red-color">tag clouds</h4>
 									<ul class="d-flex-wrap top-margin-30 red-color">
 										<li>
@@ -583,7 +584,7 @@
 									</ul>
 								</div><!-- widget-tags end -->
 								
-								<!-- widget-instagram start -->
+								<!-- widget-instagram start 
 								<div class="widget-instagram bottom-padding-90">
 									<h4 class="p-style-bold-up red-color">Instagram</h4>
 									<ul class="d-flex-wrap top-margin-30">
@@ -616,7 +617,7 @@
 											</div>
 										</li>
 									</ul>	
-								</div><!-- widget-instagram end -->
+								</div><!-- widget-instagram end 
 							</div><!-- sidebar-box end -->
 						</div><!-- sidebar end -->
 					</aside><!-- column end -->
