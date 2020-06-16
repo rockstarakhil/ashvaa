@@ -268,11 +268,11 @@
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">design</a></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">art</a></li>
 			                        </ul>
-			                        <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
+			                    <!--    <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
 			                            <li><i class="fas fa-tags text-color-3"></i></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">template</a></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">post formats</a></li>
-			                        </ul>
+			                        </ul> -->
 									<div data-animation-child class="blog-autor-date top-margin-30 fade-anim-box tr-delay02 text-color-1" data-animation="fade-anim">
 			                        	<a class="xsmall-title-oswald pointer-small hover-color" href="#">Ashvaa</a>
 										<a class="xsmall-title-oswald pointer-small hover-color" href="#">May 9, 2020</a>
@@ -304,14 +304,14 @@
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">design</a></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">art</a></li>
 			                        </ul>
-			                        <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
+			                      <!--  <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
 			                            <li><i class="fas fa-tags text-color-3"></i></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">template</a></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">post formats</a></li>
-			                        </ul>
+			                        </ul> -->
 									<div data-animation-child class="blog-autor-date top-margin-30 fade-anim-box tr-delay02 text-color-1" data-animation="fade-anim">
-			                        	<a class="xsmall-title-oswald pointer-small hover-color" href="#">Steve Kong</a>
-										<a class="xsmall-title-oswald pointer-small hover-color" href="#">March 19, 2019</a>
+			                        	<a class="xsmall-title-oswald pointer-small hover-color" href="#">Mahendra </a>
+										<a class="xsmall-title-oswald pointer-small hover-color" href="#">May 19, 2020</a>
 			                        </div>
 								</div>
 							</div>
@@ -340,14 +340,14 @@
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">design</a></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">art</a></li>
 			                        </ul>
-			                        <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
+			                    <!--    <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
 			                            <li><i class="fas fa-tags text-color-3"></i></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">template</a></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">post formats</a></li>
-			                        </ul>
+			                        </ul> -->
 									<div data-animation-child class="blog-autor-date top-margin-30 fade-anim-box tr-delay02 text-color-1" data-animation="fade-anim">
-			                        	<a class="xsmall-title-oswald pointer-small hover-color" href="#">Leila York</a>
-										<a class="xsmall-title-oswald pointer-small hover-color" href="#">March 17, 2019</a>
+			                        	<a class="xsmall-title-oswald pointer-small hover-color" href="#">Mahendra</a>
+										<a class="xsmall-title-oswald pointer-small hover-color" href="#">June 17, 2020</a>
 			                        </div>
 								</div>
 							</div>
