@@ -352,21 +352,21 @@
 								</div>
 							</div>
 						</article><!-- blog-entry end -->
-						
-						<!-- blog-entry start -->
+					
+							<!-- blog-entry start -->
 						<article class="bottom-padding-90">
 							<div class="light-bg-2">
-								<a href="single_post.php" class="pointer-large animsition-link hover-box d-block">
+								<a href="mark.php" class="pointer-large animsition-link hover-box d-block">
 									<div class="overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2">
-										<img class="hover-img" src="assets/images/blog/auditorium-lamps-lights-1649683.jpg" alt="blog img">
+										<img class="hover-img" src="assets/images/blog/mark.jpg" alt="blog img">
 									</div>
 									<div class="content-padding-l-r-20" data-animation-container>
 										<h3 class="title-style text-color-1 top-margin-30 blog-title">
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">Helvetica hella</span><br>
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">prism lo-fi</span><br>
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">activated</span>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2"> INDIA TRANSFORMING FROM </span><br>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">TRADITIONAL TO /span><br>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">DIGITAL ADVERTISING </span>
 										</h3>
-										<p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">Helvetica hella vexillologist, prism lo-fi activated charcoal iPhone thundercats irony meggings meh cardigan chartreuse...</p>
+										<p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">The Indian advertising industry is witnessing a large-size shift. because of low 4G data rates</p>
 									</div>
 								</a>
 								<div class="content-padding-l-r-20 content-padding-bottom-20" data-animation-container>
@@ -374,16 +374,16 @@
 			                            <li><i class="fas fa-thumbtack text-color-3"></i></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">branding</a></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">design</a></li>
-			                            <li class="p-letter-style pointer-small hover-color"><a href="#">art</a></li>
+			                            <li class="p-letter-style pointer-small hover-color"><a href="#">Marketing</a></li>
 			                        </ul>
-			                        <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
+			                  <!--      <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
 			                            <li><i class="fas fa-tags text-color-3"></i></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">template</a></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">post formats</a></li>
-			                        </ul>
+			                        </ul> -->
 									<div data-animation-child class="blog-autor-date top-margin-30 fade-anim-box tr-delay02 text-color-1" data-animation="fade-anim">
-			                        	<a class="xsmall-title-oswald pointer-small hover-color" href="#">James Basinski</a>
-										<a class="xsmall-title-oswald pointer-small hover-color" href="#">March 16, 2019</a>
+			                        	<a class="xsmall-title-oswald pointer-small hover-color" href="#">Mahendra</a>
+										<a class="xsmall-title-oswald pointer-small hover-color" href="#">May 16, 2020</a>
 			                        </div>
 								</div>
 							</div>
@@ -392,17 +392,17 @@
 						<!-- blog-entry start -->
 						<article class="bottom-padding-90">
 							<div class="light-bg-2">
-								<a href="single_post.php" class="pointer-large animsition-link hover-box d-block">
+								<a href="digiatl.php" class="pointer-large animsition-link hover-box d-block">
 									<div class="overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2">
-										<img class="hover-img" src="assets/images/blog/aerial-shot-conceptual-couple-1781390.jpg" alt="blog img">
+										<img class="hover-img" src="assets/images/blog/digital.jpg" alt="blog img">
 									</div>
 									<div class="content-padding-l-r-20" data-animation-container>
 										<h3 class="title-style text-color-1 top-margin-30 blog-title">
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">Distillery man</span><br>
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">bun truffaut</span><br>
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">shoreditch</span>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">Almost entire world is</span><br>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">in Lockdown and</span><br>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">you as a business provider </span>
 										</h3>
-										<p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">Distillery man bun truffaut shoreditch drinking vinegar, ethical organic poke godard migas helvetica. Tousled church...</p>
+										<p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">provider left with no other way to connect to your customers.</p>
 									</div>
 								</a>
 								<div class="content-padding-l-r-20 content-padding-bottom-20" data-animation-container>
@@ -410,56 +410,23 @@
 			                            <li><i class="fas fa-thumbtack text-color-3"></i></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">branding</a></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">design</a></li>
-			                            <li class="p-letter-style pointer-small hover-color"><a href="#">art</a></li>
+			                            <li class="p-letter-style pointer-small hover-color"><a href="#">Marketing</a></li>
 			                        </ul>
-			                        <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
+			                       <!-- <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
 			                            <li><i class="fas fa-tags text-color-3"></i></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">template</a></li>
 			                            <li class="p-letter-style pointer-small hover-color"><a href="#">post formats</a></li>
-			                        </ul>
+			                        </ul> -->
 									<div data-animation-child class="blog-autor-date top-margin-30 fade-anim-box tr-delay02 text-color-1" data-animation="fade-anim">
-			                        	<a class="xsmall-title-oswald pointer-small hover-color" href="#">Balanchaev Balancha</a>
-										<a class="xsmall-title-oswald pointer-small hover-color" href="#">March 15, 2019</a>
+			                        	<a class="xsmall-title-oswald pointer-small hover-color" href="#">Ashvaa</a>
+										<a class="xsmall-title-oswald pointer-small hover-color" href="#">June 3, 2020</a>
 			                        </div>
 								</div>
 							</div>
 						</article><!-- blog-entry end -->
 						
 						<!-- blog-entry start -->
-						<article class="bottom-padding-90">
-							<div class="light-bg-2">
-								<a href="single_post.php" class="pointer-large animsition-link hover-box d-block">
-									<div class="overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2">
-										<img class="hover-img" src="assets/images/blog/pexels-photo.jpg" alt="blog img">
-									</div>
-									<div class="content-padding-l-r-20" data-animation-container>
-										<h3 class="title-style text-color-1 top-margin-30 blog-title">
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">Plaid retro migas</span><br>
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">venmo lo-fi</span><br>
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">ethical artisan</span>
-										</h3>
-										<p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">Plaid retro migas venmo lo-fi ethical artisan fingerstache seitan you probably haven't heard of them fam keffiyeh...</p>
-									</div>
-								</a>
-								<div class="content-padding-l-r-20 content-padding-bottom-20" data-animation-container>
-			                        <ul data-animation-child class="blog-category top-margin-30 fade-anim-box text-color-2" data-animation="fade-anim">
-			                            <li><i class="fas fa-thumbtack text-color-3"></i></li>
-			                            <li class="p-letter-style pointer-small hover-color"><a href="#">branding</a></li>
-			                            <li class="p-letter-style pointer-small hover-color"><a href="#">design</a></li>
-			                            <li class="p-letter-style pointer-small hover-color"><a href="#">art</a></li>
-			                        </ul>
-			                        <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
-			                            <li><i class="fas fa-tags text-color-3"></i></li>
-			                            <li class="p-letter-style pointer-small hover-color"><a href="#">template</a></li>
-			                            <li class="p-letter-style pointer-small hover-color"><a href="#">post formats</a></li>
-			                        </ul>
-									<div data-animation-child class="blog-autor-date top-margin-30 fade-anim-box tr-delay02 text-color-1" data-animation="fade-anim">
-			                        	<a class="xsmall-title-oswald pointer-small hover-color" href="#">Balanchaev Balancha</a>
-										<a class="xsmall-title-oswald pointer-small hover-color" href="#">March 13, 2019</a>
-			                        </div>
-								</div>
-							</div>
-						</article><!-- blog-entry end -->
+						
 						
 						<!-- loading more btn start -->
 						<div class="bottom-padding-90 text-center">
