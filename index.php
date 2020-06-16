@@ -705,7 +705,7 @@ I really appreciate their support for business branding and marketing</p>
 			<!-- video-content-bg start -->
 			<div class="video-content-bg" style="background-image:url(assets/images/backgrounds/business-calligraphy-chinese-lanterns-1455969.jpg)">
 				<div class="bg-overlay"></div>
-				<a href="https://www.youtube.com/channel/UCKWlSu6m_3_i7MPnvEBAhlQ" class="video-play-button popup-youtube pointer-large">
+				<a href="https://youtu.be/0MJ6v9WszfE" class="video-play-button popup-youtube pointer-large">
 					<span></span>
 				</a>
 			</div><!-- video-content-bg end -->
