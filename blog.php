@@ -218,9 +218,9 @@
 									<span class="load-title-fill tr-delay05" data-text="and stories">and stories</span>
 								</h2>
 								<p class="p-style-bold-up text-height-20 d-flex-wrap">
-									<span class="load-title-fill tr-delay08" data-text="XOXO fam brunch">get </span>
-									<span class="load-title-fill tr-delay09" data-text="retro intelligentsia">the</span>
-									<span class="load-title-fill tr-delay10" data-text="live-edge vegan">latest happenings</span>
+									<span class="load-title-fill tr-delay08" data-text="get">get </span>
+									<span class="load-title-fill tr-delay09" data-text="the">the</span>
+									<span class="load-title-fill tr-delay10" data-text="latest happenings">latest happenings</span>
 								</p>
 								
 				  			</div>
