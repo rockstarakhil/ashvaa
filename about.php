@@ -363,10 +363,10 @@ Helped 100+ businesses and finished around 500+ projects
 				</div><!-- about-slider end -->
 			</section><!-- section end -->
 				<!-- section start -->
-			<section class="dark-bg-2">
-				<!-- flex-container start -->
+		<!--	<section class="dark-bg-2">
+				<!-- flex-container start 
 				<div class="flex-container container bottom-padding-60 top-padding-120">
-					<!-- column start -->
+					<!-- column start 
 					<div class="four-columns bottom-padding-60">
 						<div data-animation-container class="content-right-margin-20 team-title-box">
 							<h2 data-animation-child class="small-title-oswald overlay-anim-box2 red-color" data-animation="overlay-anim2">Our Best Experts</h2>
@@ -377,7 +377,7 @@ Helped 100+ businesses and finished around 500+ projects
 							</h3>
 						</div>
 					</div><!-- column end -->
-					<!-- column start -->
+					<!-- column start 
 					<div class="four-columns bottom-padding-60">
 						<a data-animation-container href="#" class="content-left-right-margin-10 hover-box pointer-large d-block">
 							<div data-animation-child class="overlay-anim-box2 overlay-dark-bg-1 team-img-box" data-animation="overlay-anim2">
@@ -388,8 +388,8 @@ Helped 100+ businesses and finished around 500+ projects
 								<p data-animation-child class="p-letter-style text-color-4 hover-content fade-anim-box tr-delay02" data-animation="fade-anim">Web Designer</p>
 							</div>
 						</a>
-					</div><!-- column end -->
-					<!-- column start -->
+					</div><!-- column end 
+					<!-- column start 
 					<div class="four-columns bottom-padding-60">
 						<a data-animation-container href="#" class="content-left-margin-20 hover-box pointer-large d-block">
 							<div data-animation-child class="overlay-anim-box2 overlay-dark-bg-1 team-img-box" data-animation="overlay-anim2">
@@ -401,7 +401,7 @@ Helped 100+ businesses and finished around 500+ projects
 							</div>
 						</a>
 					</div><!-- column end -->
-					<!-- column start -->
+					<!-- column start 
 					<div class="four-columns bottom-padding-60">
 						<a data-animation-container href="#" class="content-right-margin-20 hover-box pointer-large d-block">
 							<div data-animation-child class="overlay-anim-box2 overlay-dark-bg-1 team-img-box" data-animation="overlay-anim2">
@@ -413,7 +413,7 @@ Helped 100+ businesses and finished around 500+ projects
 							</div>
 						</a>
 					</div><!-- column end -->
-					<!-- column start -->
+					<!-- column start 
 					<div class="four-columns bottom-padding-60">
 						<a data-animation-container href="#" class="content-left-right-margin-10 hover-box pointer-large d-block">
 							<div data-animation-child class="overlay-anim-box2 overlay-dark-bg-1 team-img-box" data-animation="overlay-anim2">
@@ -425,7 +425,7 @@ Helped 100+ businesses and finished around 500+ projects
 							</div>
 						</a>
 					</div><!-- column end -->
-					<!-- column start -->
+					<!-- column start 
 					<div class="four-columns bottom-padding-60">
 						<a data-animation-container href="#" class="content-left-margin-20 hover-box pointer-large d-block">
 							<div data-animation-child class="overlay-anim-box2 overlay-dark-bg-1 team-img-box" data-animation="overlay-anim2">
