@@ -560,7 +560,7 @@ Helped 100+ businesses and finished around 500+ projects
 						</div> column end 
 					</div>< flex-container end 
 				</div><container end 
-			</section> --><
+			</section> -->
 			
 			<!-- light-bg-2 start -->
 			<div class="light-bg-2 top-bottom-padding-120" data-midnight="black">
