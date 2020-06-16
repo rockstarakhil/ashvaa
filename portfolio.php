@@ -218,7 +218,7 @@
 									<span class="load-title-fill tr-delay05" data-text="& marketing">& marketing</span>
 								</h2>
 								<p class="p-style-bold-up text-height-20 d-flex-wrap">
-									<span class="load-title-fill tr-delay08" data-text="We Design Experience">We Design Experience</span>
+									<span class="load-title-fill tr-delay08" data-text="We Design Experiences">We Design Experiences</span>
 									<span class="load-title-fill tr-delay09" data-text="that connect">that connect</span>
 									<span class="load-title-fill tr-delay10" data-text="with people">with people</span>
 								</p>

@@ -220,7 +220,7 @@
 								<p class="p-style-bold-up text-height-20 d-flex-wrap">
 									<span class="load-title-fill tr-delay08" data-text="Let ">Let </span>
 									<span class="load-title-fill tr-delay09" data-text="Ashvaa">Ashvaa</span>
-									<span class="load-title-fill tr-delay10" data-text="Expect Reach you">Expert Reach you </span>
+									<span class="load-title-fill tr-delay10" data-text="Expert Reach you">Expert Reach you </span>
 								</p>
 				  			</div>
 			  			</div><!-- column end -->

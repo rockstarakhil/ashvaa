@@ -221,7 +221,7 @@
 								</h3>
 								<p class="d-flex-wrap top-margin-20 text-color-4">
 									<span class="small-title-oswald text-height-20 fade-loading tr-delay07 top-margin-10">Creative team</span>
-									<span class="small-title-oswald text-height-20 fade-loading tr-delay08 top-margin-10">Innovation ideas</span>
+									<span class="small-title-oswald text-height-20 fade-loading tr-delay08 top-margin-10">Innovative ideas</span>
 									<span class="small-title-oswald text-height-20 fade-loading tr-delay09 top-margin-10">Best services</span>
 								</p>
 				  			</div>
