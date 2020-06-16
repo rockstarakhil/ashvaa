@@ -220,7 +220,7 @@
 								<p class="p-style-bold-up text-height-20 d-flex-wrap">
 									<span class="load-title-fill tr-delay08" data-text="Let ">Let </span>
 									<span class="load-title-fill tr-delay09" data-text="Ashvaa">Ashvaa</span>
-									<span class="load-title-fill tr-delay10" data-text="Expect Reach you">Expect Reach you </span>
+									<span class="load-title-fill tr-delay10" data-text="Expect Reach you">Expert Reach you </span>
 								</p>
 				  			</div>
 			  			</div><!-- column end -->
@@ -248,7 +248,7 @@
 							<h2 class="large-title text-center">
 								<span data-animation-child class="title-fill" data-animation="title-fill-anim" data-text="Contact us">Contact us</span>
 							</h2>
-							<p data-animation-child class="p-style-small text-color-5 fade-anim-box tr-delay03" data-animation="fade-anim">Succulents mlkshk hammock jean shorts flexitarian chicharrones, skateboard 90's knausgaard heirloom sustainable fixie forage. Vegan cloud bread forage lyft, cornhole food truck salvia portland locavore mlkshk. Etsy synth taxidermy godard DIY, tote bag fingerstache.</p>
+							<p data-animation-child class="p-style-small text-color-5 fade-anim-box tr-delay03" data-animation="fade-anim"></p>
 						</div>
 						
 						<!-- flex-container start -->
