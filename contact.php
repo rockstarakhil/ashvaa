@@ -218,9 +218,9 @@
 									<span class="load-title-fill tr-delay05" data-text="Your Businnes">Your Businnes</span>
 								</h2>
 								<p class="p-style-bold-up text-height-20 d-flex-wrap">
-									<span class="load-title-fill tr-delay08" data-text="Ashvaa ">Ashvaa</span>
-									<span class="load-title-fill tr-delay09" data-text="Creative">Creative Co</span>
-									<span class="load-title-fill tr-delay10" data-text="Add Agency">Add agency</span>
+									<span class="load-title-fill tr-delay08" data-text="Ashvaa ">Let </span>
+									<span class="load-title-fill tr-delay09" data-text="Creative">Ashvaa</span>
+									<span class="load-title-fill tr-delay10" data-text="Add Agency">Expect Reach you </span>
 								</p>
 				  			</div>
 			  			</div><!-- column end -->

@@ -218,9 +218,9 @@
 									<span class="load-title-fill tr-delay05" data-text="& marketing">& marketing</span>
 								</h2>
 								<p class="p-style-bold-up text-height-20 d-flex-wrap">
-									<span class="load-title-fill tr-delay08" data-text="XOXO fam brunch">XOXO fam brunch</span>
-									<span class="load-title-fill tr-delay09" data-text="retro intelligentsia">retro intelligentsia</span>
-									<span class="load-title-fill tr-delay10" data-text="live-edge vegan">live-edge vegan</span>
+									<span class="load-title-fill tr-delay08" data-text="XOXO fam brunch">We Design Experience</span>
+									<span class="load-title-fill tr-delay09" data-text="retro intelligentsia">that connect</span>
+									<span class="load-title-fill tr-delay10" data-text="live-edge vegan">with people</span>
 								</p>
 				  			</div>
 			  			</div><!-- column end -->
