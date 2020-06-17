@@ -290,9 +290,9 @@
 									</div>
 									<div class="content-padding-l-r-20" data-animation-container>
 										<h3 class="title-style text-color-1 top-margin-30 blog-title">
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">COVID-19 </span><br>
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">EFFECTED </span><br>
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">YOUR BUSINESS?</span>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">How to</span><br>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">improve your business</span><br>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">during Covid-19</span>
 										</h3>
 										<p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">COVID-19 is the word that has left everyone in panic. Everything that comes in contact with it, COVID-19 took over the world in every aspect. would businesses be exception for it?...</p>
 									</div>
