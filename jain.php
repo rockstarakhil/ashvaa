@@ -219,7 +219,7 @@
 									<span class="load-title-fill tr-delay05" data-text="Kakinada">Kakinada</span>
 								</h2>
 								<ul class="d-flex-wrap top-margin-20">
-									<li class="small-title-oswald text-height-20 load-title-fill tr-delay06 top-margin-10" data-text="Jain Slik">Retail Branding</li>
+									<li class="small-title-oswald text-height-20 load-title-fill tr-delay06 top-margin-10" data-text="Jain Silk">Retail Branding</li>
 									<li class="small-title-oswald text-height-20 load-title-fill tr-delay07 top-margin-10" data-text="YEAR: 2015-Present">YEAR: 2015- present</li>
 									<li class="small-title-oswald text-height-20 load-title-fill tr-delay08 top-margin-10" data-text="ROLE: Retail Branding">ROLE: Retail Branding</li>
 								</ul>

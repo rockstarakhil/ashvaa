@@ -461,7 +461,7 @@
 											<a href="covid_business.php" class="pointer-small small-title-oswald">Covid -19</a>
 										</li>
 										<li>
-											<a href="post_covid.php" class="pointer-small small-title-oswald">Lockdown Affected Yor business</a>
+											<a href="post_covid.php" class="pointer-small small-title-oswald">Lockdown Affected Your business</a>
 										</li>
 										<li>
 											<a href="#" class="pointer-small small-title-oswald">Production (21)</a>
