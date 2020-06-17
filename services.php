@@ -583,7 +583,7 @@ as long as the effort results in a specific consumer experience that builds a co
 						<div class="four-columns bottom-padding-60">
 							<a data-animation-container href="#" class="content-left-margin-20 hover-box pointer-large d-block light-bg-2">
 								<div data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 expertise-img-box" data-animation="overlay-anim2">
-									<img class="hover-img" src="assets/images/services/analysis-analytics-application-590016.jpg" alt="Digital products">
+									<img class="hover-img" src="assets/images/services/gd.jpg" alt="Digital products">
 								</div>
 								<div class="expertise content-padding-l-r-20 content-padding-bottom-20">
 									<h3 data-animation-child class="small-title-oswald text-color-1 hover-content fade-anim-box tr-delay01" data-animation="fade-anim">Graphic Design </h3><br>
