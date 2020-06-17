@@ -221,10 +221,10 @@
 							  				<span class="slider-title-fill slider-tr-delay03" data-text="art meet.">art meet.</span>
 						  				</h2>
 						  				<p class="p-style-bold-up text-height-20 d-flex-wrap">
-										  	<span class="slider-title-fill slider-tr-delay04" data-text="We Create Desings">We Create Desings</span>
+										  	<span class="slider-title-fill slider-tr-delay04" data-text="We Create Designs">We Create Designs</span>
 										  	<span class="slider-title-fill slider-tr-delay05" data-text="that truly">that truly </span>
 
-										  	<span class="slider-title-fill slider-tr-delay06" data-text="Defines Your Brand">Defines Your Brand</span>
+										  	<span class="slider-title-fill slider-tr-delay06" data-text="Define Your Brand">Define Your Brand</span>
 									  	</p>
 									  	<div class="slider-fade slider-tr-delay07 top-margin-30">
 										  	<div class="border-btn-box border-btn-red pointer-large">
@@ -347,8 +347,8 @@
 							<!-- column start -->
 							<div class="six-columns">
 								<div class="content-left-margin-20">
-									<p data-animation-child class="p-style-medium text-color-5 fade-anim-box tr-delay03" data-animation="fade-anim">We think of brand solutions from core of the brand and make it work with meaningful consumers connections
-So, when we get our thinking hat, we don’t just pull out a rabbit, we make it dance for u. </p>
+									<p data-animation-child class="p-style-medium text-color-5 fade-anim-box tr-delay03" data-animation="fade-anim">We think of brand solutions from core of the brand and make it work with meaningful consumers connections,
+So when we get our thinking hat, we don’t just pull out a rabbit, we make it dance for u. </p>
 								</div>
 							</div><!-- column end -->
 							<!-- column start -->
@@ -427,7 +427,7 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">FMCG company </span><br>
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Kakinada</span>
 										</h3>
-										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Pattabhi agro foods private limited (Lohitha brand), is an FMCG company is engaged in paddy purchases, processing, milling and grading of rice and its bi-products </p>
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Pattabhi agro foods private limited (Lohitha brand) an FMCG company is engaged in paddy purchases, processing, milling and grading of rice and its bi-products </p>
 										
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
@@ -458,8 +458,8 @@ So, when we get our thinking hat, we don’t just pull out a rabbit, we make it 
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">Educational Institutions </span><br>
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Kakinada</span>
 										</h3>
-										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">The Pydah Group Educational Institutions are the outcome from the untiring efforts of three generations since 1953.
-Our well-strategic and relevant content and designs gave them a consistent stream of high-quality leads for conversion.
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">The Pydah Group Educational Institutions are the outcome of   the untiring efforts of three generations since 1953.
+Our strategic and relevant content and designs gave them a consistent stream of high-quality leads for conversion.
 </p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
@@ -502,8 +502,8 @@ Our well-strategic and relevant content and designs gave them a consistent strea
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2"> Advanced & Fully Automated Lab </span><br>
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Tuni</span>
 										</h3>
-										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Maruthi Diagnostic lab is a diagnostic testing lab newly established in tuni 
-We have been entrusted the task of expanding the reach on the online world and also connect to the target audience	
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Maruthi Diagnostic lab is a diagnostic testing lab newly established in Tuni. 
+We have been entrusted the task of expanding their reach on the online world and also connect to the target audience	
 </p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">

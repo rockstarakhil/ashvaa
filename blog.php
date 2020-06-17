@@ -326,11 +326,11 @@
 									</div>
 									<div class="content-padding-l-r-20" data-animation-container>
 										<h3 class="title-style text-color-1 top-margin-30 blog-title">
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">Lock Down</span><br>
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">has</span><br>
-											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">affected Many Business</span>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">Has</span><br>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Covid-19</span><br>
+											<span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">Effected Many Business</span>
 										</h3>
-										<p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">Lockdown has affected many businesses, so every business need look for new marketing plans.</p>
+										<p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">Lockdown has affected many businesses, so every business to need look for new marketing plans.</p>
 									</div>
 								</a>
 								<div class="content-padding-l-r-20 content-padding-bottom-20" data-animation-container>

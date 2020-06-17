@@ -312,11 +312,11 @@ study have revealed that people have turned to the television, which at some poi
 						</div><single-post-content end 
 							
 						<!-- post-prev-next start -->
-						<div class="top-padding-90 bottom-padding-30">
+				<!--		<div class="top-padding-90 bottom-padding-30">
 							<h2 class="p-style-bold-up text-color-1">You might also like</h2>
-							<!-- flex-container start -->
+							<!-- flex-container start 
 							<div class="flex-container response-999 top-margin-30">
-								<!-- column start -->
+								<!-- column start 
 								<div class="four-columns bottom-padding-60">
 									<div class="content-right-margin-20">
 										<a href="single_post_covid.php" class="hover-box pointer-large animsition-link d-block light-bg-2">
@@ -330,7 +330,7 @@ study have revealed that people have turned to the television, which at some poi
 										</a>
 									</div>
 								</div><!-- column end -->
-								<!-- column start -->
+								<!-- column start 
 								<div class="four-columns bottom-padding-60">
 									<div class="content-left-right-margin-10">
 										<a href="single_post.php" class="hover-box pointer-large animsition-link d-block light-bg-2">
@@ -344,7 +344,7 @@ study have revealed that people have turned to the television, which at some poi
 										</a>
 									</div>
 								</div><!-- column end -->
-								<!-- column start -->
+								<!-- column start 
 								<div class="four-columns bottom-padding-60">
 									<div class="content-left-margin-20">
 										<a href="single_post.php" class="hover-box pointer-large animsition-link d-block light-bg-2">
@@ -369,13 +369,13 @@ study have revealed that people have turned to the television, which at some poi
 								</div>
 								<div class="autor-bio-desc">
 									<h5 class="small-title-oswald text-color-1">Mahendra </h5>
-									<p class="p-style-small text-height-15 text-color-1">Truffaut forage pour-over la croix. Enamel pin wolf franzen lumbersexual sartorial marfa blue bottle man braid art party offal air plant umami health goth seitan. Health goth mustache pork belly celiac.</p>
-									<ul class="autor-social text-color-1">
+									<p class="p-style-small text-height-15 text-color-1"></p>
+								<!--	<ul class="autor-social text-color-1">
 										<li><a class="pointer-small hover-color" href="#"><i class="fab fa-facebook"></i></a></li>
 										<li><a class="pointer-small hover-color" href="#"><i class="fab fa-twitter"></i></a></li>
 										<li><a class="pointer-small hover-color" href="#"><i class="fab fa-vimeo"></i></a></li>
 										<li><a class="pointer-small hover-color" href="#"><i class="fab fa-youtube"></i></a></li>
-									</ul>
+									</ul> -->
 								</div>
 							</div>
 						</div><!-- autor-bio end -->
