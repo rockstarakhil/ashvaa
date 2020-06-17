@@ -362,7 +362,7 @@ study have revealed that people have turned to the television, which at some poi
 						</div><!-- post-prev-next end -->
 							
 						<!-- autor-bio start -->
-						<div class="light-bg-2 autor-bio">
+				<!--		<div class="light-bg-2 autor-bio">
 							<div class="content-margin-block autor-bio-flex">
 								<div class="autor-img">
 									<img src="assets/images/avatars/adolescent-beautiful-beauty-247878.jpg" alt="Author">

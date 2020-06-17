@@ -358,10 +358,10 @@ All in these are times when you should set forth with new ways to make your bran
 						</div><!-- post-prev-next end -->
 							
 						<!-- autor-bio start -->
-						<div class="light-bg-2 autor-bio">
+					<!--	<div class="light-bg-2 autor-bio">
 							<div class="content-margin-block autor-bio-flex">
 								<div class="autor-img">
-							<!--		<img src="assets/images/avatars/adolescent-beautiful-beauty-247878.jpg" alt="Author"> -->
+							<!--		<img src="assets/images/avatars/adolescent-beautiful-beauty-247878.jpg" alt="Author"> 
 								</div>
 								<div class="autor-bio-desc">
 									<h5 class="small-title-oswald text-color-1">Ashvaa</h5>

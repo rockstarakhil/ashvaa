@@ -313,11 +313,11 @@ One appropriate way to connect with your customers is to appear in the ‘social
 						</div><single-post-content end 
 							
 						<!-- post-prev-next start -->
-						<div class="top-padding-90 bottom-padding-30">
+				<!--		<div class="top-padding-90 bottom-padding-30">
 							<h2 class="p-style-bold-up text-color-1">You might also like</h2>
-							<!-- flex-container start -->
+							<!-- flex-container start 
 							<div class="flex-container response-999 top-margin-30">
-								<!-- column start -->
+								<!-- column start 
 								<div class="four-columns bottom-padding-60">
 									<div class="content-right-margin-20">
 										<a href="single_post_covid.php" class="hover-box pointer-large animsition-link d-block light-bg-2">
@@ -331,7 +331,7 @@ One appropriate way to connect with your customers is to appear in the ‘social
 										</a>
 									</div>
 								</div><!-- column end -->
-								<!-- column start -->
+								<!-- column start 
 								<div class="four-columns bottom-padding-60">
 									<div class="content-left-right-margin-10">
 										<a href="single_post.php" class="hover-box pointer-large animsition-link d-block light-bg-2">
@@ -345,7 +345,7 @@ One appropriate way to connect with your customers is to appear in the ‘social
 										</a>
 									</div>
 								</div><!-- column end -->
-								<!-- column start -->
+								<!-- column start 
 								<div class="four-columns bottom-padding-60">
 									<div class="content-left-margin-20">
 										<a href="single_post.php" class="hover-box pointer-large animsition-link d-block light-bg-2">
@@ -362,7 +362,7 @@ One appropriate way to connect with your customers is to appear in the ‘social
 							</div><!-- flex-container end -->
 						</div><!-- post-prev-next end -->
 							
-						<!-- autor-bio start -->
+						<!-- autor-bio start 
 						<div class="light-bg-2 autor-bio">
 							<div class="content-margin-block autor-bio-flex">
 								<div class="autor-img">
