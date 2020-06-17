@@ -258,15 +258,15 @@
 								<div data-animation-container class="content-right-margin-20">
 									<p data-animation-child class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Email us</p>
 									<p class="title-style text-color-4">
-										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">Add Agency</span><br>
+										<!--<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">Add Agency</span><br> -->
 										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2">Contact us </span><br>
 										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2">Here</span>
 									</p>
 									<h6 data-animation-child class="flip-btn-box fade-anim-box tr-delay04" data-animation="fade-anim">
-										<a href="#" class="flip-btn pointer-large" data-text="ASHVAACREATIVECO@GMAIL.COM">ASHVAACREATIVECO@GMAIL.COM</a>
+										<a href="#" class="flip-btn pointer-large" data-text="ASHVAACREATIVECO@GMAIL.COM">ashvaacreative@gmail.com</a>
 									</h6>
 									<h6 data-animation-child class="flip-btn-box fade-anim-box tr-delay04" data-animation="fade-anim">
-										<a href="#" class="flip-btn pointer-large" data-text="HELLO@ASHVAA.IN">HELLO@ASHVAA.IN</a>
+										<a href="#" class="flip-btn pointer-large" data-text="HELLO@ASHVAA.IN">hello@ashvaa.in</a>
 									</h6>
 								</div>
 							</div><!-- column end -->
@@ -289,7 +289,7 @@
 								<div data-animation-container class="content-left-margin-20">
 									<p data-animation-child class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Call us</p>
 									<p class="title-style text-color-4">
-										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">Ashava Support</span><br>
+										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">Ashvaa Support</span><br>
 										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2">Is Here </span><br>
 										<span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2">At Your Service</span>
 									</p>

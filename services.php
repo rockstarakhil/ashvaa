@@ -270,7 +270,7 @@
 										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay04" data-animation="fade-anim">Brand strategy </p>
 									</li>
 									<li>
-										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay05" data-animation="fade-anim">nameing & Brand Identity </p>
+										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay05" data-animation="fade-anim">naming & Brand Identity </p>
 									</li>
 									<li>
 										<p data-animation-child class="p-letter-style text-color-4 fade-anim-box tr-delay06" data-animation="fade-anim">Logo Design</p>
@@ -543,7 +543,7 @@ and remarkably engage your current customers
 						<div class="four-columns bottom-padding-60">
 							<a data-animation-container href="#" class="content-left-margin-20 hover-box pointer-large d-block light-bg-2">
 								<div data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 expertise-img-box" data-animation="overlay-anim2">
-									<img class="hover-img" src="assets/images/services/beautiful-brainstorming-business-1136757.jpg" alt="Digital products">
+									<img class="hover-img" src="assets/images/services/smm1.jpg" alt="Digital products">
 								</div>
 								<div class="expertise content-padding-l-r-20 content-padding-bottom-20">
 									<h3 data-animation-child class="small-title-oswald text-color-1 hover-content fade-anim-box tr-delay01" data-animation="fade-anim">Social Media Marketing</h3><br>

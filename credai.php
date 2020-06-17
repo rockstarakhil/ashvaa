@@ -264,7 +264,7 @@
 						<!-- column start -->
 						<div class="eight-columns bottom-padding-60">
 							<div class="content-left-margin-20">
-								<p class="p-style-large text-color-4">Credai Home Expo 2017, Presented by Credai Kakinada chapter, Home expo is held for 3 times in times in Kakinada and the organizers were not happy with the response for the previous years, Desired to make it BIG this time in 2017,  We closely worked with the organizers and created the buzz in all possible ways using our creative and out of the box marketing collaterals. We are really happy to be part of this grand success of Credai Home Expo 2017.
+								<p class="p-style-large text-color-4">Credai Home Expo 2017, Presented by Credai Kakinada chapter, Home expo is held for third time in Kakinada and the organizers were not happy with the response for the previous years, Desired to make it BIG this time in 2017,  We closely worked with the organizers and created the buzz in all possible ways using our creative and out of the box marketing collaterals. We are really happy to be part of this grand success of Credai Home Expo 2017.
 </p>
 							</div>
 						</div><!-- column end -->
