@@ -259,7 +259,7 @@
 									<div class="content-right-margin-40">
 											<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Retail Branding</span>
 										<h3 class="title-style text-color-1">
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Jain Slik Palace</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Jain Silk Palace</span><br>
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">Retail Shopping Mall</span><br>
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Kakinada</span>
 										</h3>
