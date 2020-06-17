@@ -212,9 +212,9 @@
 			  			<div class="six-columns six-offset">
 				  			<div class="content-left-margin-40">
 				  				<h2 class="large-title">
-									<span class="load-title-fill tr-delay03" data-text="Has">Lockdown has affected </span><br>
-									<span class="load-title-fill tr-delay04" data-text="COVID-19">many businesses</span><br>
-									<span class="load-title-fill tr-delay05" data-text="Effected Your Business">so every business need </span>
+									<span class="load-title-fill tr-delay03" data-text="Has">Has</span><br>
+									<span class="load-title-fill tr-delay04" data-text="COVID-19">covid -19</span><br>
+									<span class="load-title-fill tr-delay05" data-text="Effected Your Business ?">Effected Your Business ?</span>
 								</h2>
 								<div class="d-flex-wrap top-margin-20">
 									<a class="small-title-oswald text-height-20 pointer-large load-title-fill tr-delay06 top-margin-10" href="#" data-text="In: Business Development">In: Business Development</a>
